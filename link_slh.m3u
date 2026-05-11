@@ -1,0 +1,1101 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="---------- ☾☆ Bilgi Ekranı ☾☆ ---------- " tvg-logo="http://logo1010.com/lg/filboxlogo.png" group-title="► Ulusal",---------- ☾☆ Bilgi Ekranı ☾☆ ---------- 
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/1893.ts
+#EXTINF:-1 tvg-id="" tvg-name="TRT 4K" tvg-logo="http://logo1010.com/news/trt1-hd.png" group-title="► Ulusal",TRT 4K
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/350777.ts
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="TRT 1 ʜᴅ" tvg-logo="http://logo1010.com/news/trt1-hd.png" group-title="► Ulusal",TRT 1 ʜᴅ
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/798.ts
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="TRT 1 ғʜᴅ" tvg-logo="http://logo1010.com/news/trt1-fhd.png" group-title="► Ulusal",TRT 1 ғʜᴅ
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/700.ts
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="Atv HD" tvg-logo="http://logo1010.com/news/atv-hd.png" group-title="► Ulusal",Atv HD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/793.ts
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="Atv FHD" tvg-logo="http://logo1010.com/news/atv-fhd.png" group-title="► Ulusal",Atv FHD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/703.ts
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="Atv EU HD" tvg-logo="http://logo1010.com/news/atveuro-hd.png" group-title="► Ulusal",Atv EU HD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/4939.ts
+#EXTINF:-1 tvg-id="showtv.tr" tvg-name="Show TV HD" tvg-logo="http://logo1010.com/news/showtv-hd.png" group-title="► Ulusal",Show TV HD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/795.ts
+#EXTINF:-1 tvg-id="showtv.tr" tvg-name="Show TV FHD" tvg-logo="http://logo1010.com/news/showtv-fhd.png" group-title="► Ulusal",Show TV FHD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/719.ts
+#EXTINF:-1 tvg-id="showtv.tr" tvg-name="Show Tv EU" tvg-logo="https://logo1010.com/news/showtv-hd.png" group-title="► Ulusal",Show Tv EU
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/4941.ts
+#EXTINF:-1 tvg-id="kanald.tr" tvg-name="Kanal D HD" tvg-logo="http://logo1010.com/news/kanald-hd.png" group-title="► Ulusal",Kanal D HD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/791.ts
+#EXTINF:-1 tvg-id="kanald.tr" tvg-name="Kanal D FHD" tvg-logo="http://logo1010.com/news/kanald-fhd.png" group-title="► Ulusal",Kanal D FHD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/714.ts
+#EXTINF:-1 tvg-id="kanald.tr" tvg-name="Kanal D EU HD" tvg-logo="http://logo1010.com/news/eurod-hd.png" group-title="► Ulusal",Kanal D EU HD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/4940.ts
+#EXTINF:-1 tvg-id="24.tr" tvg-name="Now HD" tvg-logo="http://logo1010.com/news/fox-hd.png" group-title="► Ulusal",Now HD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/794.ts
+#EXTINF:-1 tvg-id="24.tr" tvg-name="Now FHD" tvg-logo="http://logo1010.com/news/fox-fhd.png" group-title="► Ulusal",Now FHD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/709.ts
+#EXTINF:-1 tvg-id="startv.tr" tvg-name="Star TV HD" tvg-logo="http://logo1010.com/news/startv-hd.png" group-title="► Ulusal",Star TV HD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/796.ts
+#EXTINF:-1 tvg-id="startv.tr" tvg-name="Star TV FHD" tvg-logo="http://logo1010.com/news/startv-fhd.png" group-title="► Ulusal",Star TV FHD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/724.ts
+#EXTINF:-1 tvg-id="startv.tr" tvg-name="Star Tv EU HD" tvg-logo="http://logo1010.com/news/staruero-hd.png" group-title="► Ulusal",Star Tv EU HD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/4942.ts
+#EXTINF:-1 tvg-id="tv8.tr" tvg-name="TV8 HD" tvg-logo="http://logo1010.com/news/tv8-hd.png" group-title="► Ulusal",TV8 HD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/799.ts
+#EXTINF:-1 tvg-id="tv8.tr" tvg-name="Tv8 FHD" tvg-logo="http://logo1010.com/news/tv8-fhd.png" group-title="► Ulusal",Tv8 FHD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/790.ts
+#EXTINF:-1 tvg-id="tv8.tr" tvg-name="TV8 Int HD" tvg-logo="http://logo1010.com/news/tv8int-hd.png" group-title="► Ulusal",TV8 Int HD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/160036.ts
+#EXTINF:-1 tvg-id="trt2.tr" tvg-name="TRT 2 HD" tvg-logo="http://logo1010.com/cdn/ulusal/trt2.png" group-title="► Ulusal",TRT 2 HD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/787.ts
+#EXTINF:-1 tvg-id="trtebatvortaokul.tr" tvg-name="TRT Eba Tv" tvg-logo="http://logo1010.com/cdn/haber/trtebaortaokul.png" group-title="► Ulusal",TRT Eba Tv
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/91017.ts
+#EXTINF:-1 tvg-id="trtkurdi.tr" tvg-name="TRT Kurdi " tvg-logo="http://logo1010.com/news/trtkurdi.png" group-title="► Ulusal",TRT Kurdi 
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/694.ts
+#EXTINF:-1 tvg-id="" tvg-name="TRT EBA" tvg-logo="http://logo1010.com/ens/images1.png" group-title="► Ulusal",TRT EBA
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/352716.ts
+#EXTINF:-1 tvg-id="trtturk.tr" tvg-name="TRT Turk HD" tvg-logo="http://logo1010.com/news/trtturk-hd.png" group-title="► Ulusal",TRT Turk HD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/12774.ts
+#EXTINF:-1 tvg-id="trtworld.tr" tvg-name="TRT World HD" tvg-logo="http://logo1010.com/cdn/haber/trtworldhd_2.png" group-title="► Ulusal",TRT World HD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/12775.ts
+#EXTINF:-1 tvg-id="trtalarabiya.tr" tvg-name="TRT Arabi HD" tvg-logo="http://logo1010.com/cdn/ulusal/trt_arapca.png" group-title="► Ulusal",TRT Arabi HD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/158688.ts
+#EXTINF:-1 tvg-id="trtavaz.tr" tvg-name="TRT Avaz SD" tvg-logo="http://logo1010.com/cdn/ulusal/trtavaz_2.png" group-title="► Ulusal",TRT Avaz SD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/121064.ts
+#EXTINF:-1 tvg-id="kanal7.tr" tvg-name="Kanal 7 ʜᴅ" tvg-logo="http://logo1010.com/news/kanal7-hd.png" group-title="► Ulusal",Kanal 7 ʜᴅ
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/160000.ts
+#EXTINF:-1 tvg-id="kanal7.tr" tvg-name="Kanal 7 Avrupa HD" tvg-logo="http://logo1010.com/news/kanal7av-hd.png" group-title="► Ulusal",Kanal 7 Avrupa HD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/121105.ts
+#EXTINF:-1 tvg-id="beyaztv.tr" tvg-name="Beyaz TV ᴴᴰ" tvg-logo="http://logo1010.com/news/beyaztv-hd.png" group-title="► Ulusal",Beyaz TV ᴴᴰ
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/693.ts
+#EXTINF:-1 tvg-id="beyaztv.tr" tvg-name="Beyaz TV ғʜᴅ" tvg-logo="http://logo1010.com/news/beyaztv-fhd.png" group-title="► Ulusal",Beyaz TV ғʜᴅ
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/160001.ts
+#EXTINF:-1 tvg-id="teve2.tr" tvg-name="Teve 2 HD" tvg-logo="http://logo1010.com/news/teve2-hd.png" group-title="► Ulusal",Teve 2 HD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/669.ts
+#EXTINF:-1 tvg-id="teve2.tr" tvg-name="Teve 2 FHD" tvg-logo="http://logo1010.com/news/teve2-fhd.png" group-title="► Ulusal",Teve 2 FHD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/159999.ts
+#EXTINF:-1 tvg-id="24.tr" tvg-name="Tgrt EU HD" tvg-logo="http://logo1010.com/news/tgrteu-hd.png" group-title="► Ulusal",Tgrt EU HD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/207135.ts
+#EXTINF:-1 tvg-id="a2tv.tr" tvg-name="A2 HD" tvg-logo="http://logo1010.com/news/a2-hd.png" group-title="► Ulusal",A2 HD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/726.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALTAS TV SD" tvg-logo="http://logo1010.com/cdn/yoresel/ordualtas.png" group-title="► Ulusal",ALTAS TV SD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/91010.ts
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TV 52 sᴅ" tvg-logo="http://logo1010.com/cdn/yoresel/tv52-yeni.png" group-title="► Ulusal",TV 52 sᴅ
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/114339.ts
+#EXTINF:-1 tvg-id="showmax.tr" tvg-name="Showmax HD" tvg-logo="http://logo1010.com/news/showturk.png" group-title="► Ulusal",Showmax HD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/121106.ts
+#EXTINF:-1 tvg-id="360.tr" tvg-name="360 TV HD" tvg-logo="http://logo1010.com/news/360-hd.png" group-title="► Ulusal",360 TV HD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/7107.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fashion TV" tvg-logo="http://logo1010.com/ens/images2.png" group-title="► Ulusal",Fashion TV
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/350607.ts
+#EXTINF:-1 tvg-id="" tvg-name="---------- ☾☆ Spor ☾☆ ---------- " tvg-logo="http://logo1010.com/lg/filboxlogo.png" group-title="► Spor / D-Smart⚽️",---------- ☾☆ Spor ☾☆ ---------- 
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/1889.ts
+#EXTINF:-1 tvg-id="beinsportshaber.tr" tvg-name="beIN Sports Haber HD⚽️" tvg-logo="http://logo1010.com/news/bs-haber.png" group-title="► beIN Sports⚽️",beIN Sports Haber HD⚽️
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/4743.ts
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="beIN Sports 1 HD⚽️" tvg-logo="http://logo1010.com/news/bein-1.png" group-title="► beIN Sports⚽️",beIN Sports 1 HD⚽️
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/349628.ts
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="beIN Sports 1 720p [ 1000KB ]⚽️" tvg-logo="http://p1021.com/bein-spor/index.m3u8" group-title="► beIN Sports⚽️",beIN Sports 1 720p [ 1000KB ]⚽️
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/4740.ts
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="beIN Sports 1 576p⚽️" tvg-logo="http://logo1010.com/news/bein-1.png" group-title="► beIN Sports⚽️",beIN Sports 1 576p⚽️
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/4521.ts
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="beIN Sports 1 360p⚽️" tvg-logo="http://logo1010.com/news/bein-1.png" group-title="► beIN Sports⚽️",beIN Sports 1 360p⚽️
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/318927.ts
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="beIN Sports 1 1080p⚽️" tvg-logo="http://logo1010.com/news/bein-1.png" group-title="► beIN Sports⚽️",beIN Sports 1 1080p⚽️
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/349629.ts
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="beIN Sports 1 H.265(Hevc)⚽️" tvg-logo="http://logo1010.com/news/bein-1.png" group-title="► beIN Sports⚽️",beIN Sports 1 H.265(Hevc)⚽️
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/201419.ts
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="beIN Sports 1 4K⚽️" tvg-logo="http://logo1010.com/news/bein-1.png" group-title="► beIN Sports⚽️",beIN Sports 1 4K⚽️
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/318926.ts
+#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="beIN Sports 2 720p⚽️" tvg-logo="http://logo1010.com/news/bein-2.png" group-title="► beIN Sports⚽️",beIN Sports 2 720p⚽️
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/824.ts
+#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="beIN Sports 2 1080p⚽️" tvg-logo="http://logo1010.com/news/bein-2.png" group-title="► beIN Sports⚽️",beIN Sports 2 1080p⚽️
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/9368.ts
+#EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="beIN Sports 3 720p⚽️" tvg-logo="http://logo1010.com/news/bein-3.png" group-title="► beIN Sports⚽️",beIN Sports 3 720p⚽️
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/823.ts
+#EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="beIN Sports 3 1080p⚽️" tvg-logo="http://logo1010.com/news/bein-3.png" group-title="► beIN Sports⚽️",beIN Sports 3 1080p⚽️
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/9369.ts
+#EXTINF:-1 tvg-id="beinsports4.tr" tvg-name="beIN Sports 4 720p⚽️" tvg-logo="http://logo1010.com/news/bein-4.png" group-title="► beIN Sports⚽️",beIN Sports 4 720p⚽️
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/822.ts
+#EXTINF:-1 tvg-id="beinsports4.tr" tvg-name="beIN Sports 4 1080p⚽️" tvg-logo="http://logo1010.com/news/bein-4.png" group-title="► beIN Sports⚽️",beIN Sports 4 1080p⚽️
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/20835.ts
+#EXTINF:-1 tvg-id="beinsports5.tr" tvg-name="beIN Sports 5 720p⚽️" tvg-logo="http://logo1010.com/news/bein-5.png" group-title="► beIN Sports⚽️",beIN Sports 5 720p⚽️
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/226083.ts
+#EXTINF:-1 tvg-id="24.tr" tvg-name="beIN Sports 5 1080p⚽️" tvg-logo="http://logo1010.com/news/bein-5.png" group-title="► beIN Sports⚽️",beIN Sports 5 1080p⚽️
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/301164.ts
+#EXTINF:-1 tvg-id="beinsportsmax1.tr" tvg-name="beIN Sports Max 1 720p⚽️" tvg-logo="http://logo1010.com/news/bsmax-1.png" group-title="► beIN Sports⚽️",beIN Sports Max 1 720p⚽️
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/820.ts
+#EXTINF:-1 tvg-id="beinsportsmax1.tr" tvg-name="beIN Sports Max 1 1080p⚽️" tvg-logo="http://logo1010.com/news/bsmax-1.png" group-title="► beIN Sports⚽️",beIN Sports Max 1 1080p⚽️
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/301166.ts
+#EXTINF:-1 tvg-id="beinsportsmax2.tr" tvg-name="beIN Sports Max 2 720p⚽️" tvg-logo="http://logo1010.com/news/bsmax-2.png" group-title="► beIN Sports⚽️",beIN Sports Max 2 720p⚽️
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/821.ts
+#EXTINF:-1 tvg-id="beinsportsmax2.tr" tvg-name="beIN Sports Max 2 1080p⚽️" tvg-logo="http://logo1010.com/news/bsmax-2.png" group-title="► beIN Sports⚽️",beIN Sports Max 2 1080p⚽️
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/301165.ts
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="⚽️Bein-Connect-1" tvg-logo="http://logo1010.com/ens/unnamed.png" group-title="► beIN Sports⚽️",⚽️Bein-Connect-1
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/159327.ts
+#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="⚽️Bein-Connect-2" tvg-logo="http://logo1010.com/ens/unnamed.png" group-title="► beIN Sports⚽️",⚽️Bein-Connect-2
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/159329.ts
+#EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="⚽️Bein-Connect-3" tvg-logo="http://logo1010.com/ens/unnamed.png" group-title="► beIN Sports⚽️",⚽️Bein-Connect-3
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/159330.ts
+#EXTINF:-1 tvg-id="beinsports4.tr" tvg-name="⚽️Bein-Connect-4" tvg-logo="http://logo1010.com/ens/unnamed.png" group-title="► beIN Sports⚽️",⚽️Bein-Connect-4
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/159331.ts
+#EXTINF:-1 tvg-id="ssport.tr" tvg-name="S Sport 1 SD⚽️" tvg-logo="http://logo1010.com/news/ssport1-hd.png" group-title="► S Sport⚽️",S Sport 1 SD⚽️
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/807.ts
+#EXTINF:-1 tvg-id="ssport2.tr" tvg-name="S Sport 2 SD⚽️" tvg-logo="http://logo1010.com/news/ssport2-hd.png" group-title="► S Sport⚽️",S Sport 2 SD⚽️
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/177098.ts
+#EXTINF:-1 tvg-id="ssport2.tr" tvg-name="S Sport 2 HD⚽️" tvg-logo="http://logo1010.com/news/ssport2-fhd.png" group-title="► S Sport⚽️",S Sport 2 HD⚽️
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/36881.ts
+#EXTINF:-1 tvg-id="ssport.tr" tvg-name="S Sport Plus 1 / Disney⚽️" tvg-logo="http://logo1010.com/news/ssportplus1-hd.png" group-title="► S Sport⚽️",S Sport Plus 1 / Disney⚽️
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/114337.ts
+#EXTINF:-1 tvg-id="" tvg-name="S Sport Plus 2 / Disney⚽️" tvg-logo="http://logo1010.com/news/ssportplus2-hd.png" group-title="► S Sport⚽️",S Sport Plus 2 / Disney⚽️
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/177099.ts
+#EXTINF:-1 tvg-id="" tvg-name="S Sport Plus 3 / Disney⚽️" tvg-logo="http://logo1010.com/news/ssportplus3-hd.png" group-title="► S Sport⚽️",S Sport Plus 3 / Disney⚽️
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/177100.ts
+#EXTINF:-1 tvg-id="" tvg-name="S Sport Plus 4 / Disney⚽️" tvg-logo="http://logo1010.com/news/ssportplus4-hd.png" group-title="► S Sport⚽️",S Sport Plus 4 / Disney⚽️
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/177101.ts
+#EXTINF:-1 tvg-id="" tvg-name="S Sport Plus 5 / Disney⚽️" tvg-logo="http://logo1010.com/news/ssportplus5-hd.png" group-title="► S Sport⚽️",S Sport Plus 5 / Disney⚽️
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/179241.ts
+#EXTINF:-1 tvg-id="" tvg-name="S Sport Plus 6 / Disney⚽️" tvg-logo="http://logo1010.com/news/ssportplus6-hd.png" group-title="► S Sport⚽️",S Sport Plus 6 / Disney⚽️
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/190670.ts
+#EXTINF:-1 tvg-id="sportstv.tr" tvg-name="Sports TV SD⚽️" tvg-logo="http://logo1010.com/cdn/tvlogo/sportstv.png" group-title="► Spor / D-Smart⚽️",Sports TV SD⚽️
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/686.ts
+#EXTINF:-1 tvg-id="trtspor.tr" tvg-name="TRT Spor FHD⚽️" tvg-logo="http://logo1010.com/news/trtspor-fhd.png" group-title="► Spor / D-Smart⚽️",TRT Spor FHD⚽️
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/158685.ts
+#EXTINF:-1 tvg-id="trtspor.tr" tvg-name="TRT Spor HD⚽️" tvg-logo="http://logo1010.com/news/trtspor-hd.png" group-title="► Spor / D-Smart⚽️",TRT Spor HD⚽️
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/690.ts
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TRT Spor 2 HD⚽️" tvg-logo="http://logo1010.com/cdn/tvlogo/trtspor.png" group-title="► Spor / D-Smart⚽️",TRT Spor 2 HD⚽️
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/116341.ts
+#EXTINF:-1 tvg-id="trtspor3.tr" tvg-name="TRT Spor 3 HD⚽️" tvg-logo="http://logo1010.com/news/trtspor-hd.png" group-title="► Spor / D-Smart⚽️",TRT Spor 3 HD⚽️
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/689.ts
+#EXTINF:-1 tvg-id="trtsporyildiz.tr" tvg-name="TRT Spor Yildiz HD⚽️" tvg-logo="http://logo1010.com/news/trty%C4%B1ld%C4%B1z-hd.png" group-title="► Spor / D-Smart⚽️",TRT Spor Yildiz HD⚽️
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/197433.ts
+#EXTINF:-1 tvg-id="" tvg-name="HT SPOR⚽️" tvg-logo="https://gbzottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/logo/202408/20240823/7/0822287635005eb8f42a_op_0_XL.png" group-title="► Spor / D-Smart⚽️",HT SPOR⚽️
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/375690.ts
+#EXTINF:-1 tvg-id="" tvg-name="HT SPOR HD⚽️" tvg-logo="https://gbzottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/logo/202408/20240823/7/0822287635005eb8f42a_op_0_XL.png" group-title="► Spor / D-Smart⚽️",HT SPOR HD⚽️
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/335678.ts
+#EXTINF:-1 tvg-id="tv85.tr" tvg-name="Tv 8.5 SD⚽️" tvg-logo="http://logo1010.com/news/tv8.5-hd.png" group-title="► Spor / D-Smart⚽️",Tv 8.5 SD⚽️
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/789.ts
+#EXTINF:-1 tvg-id="tv85.tr" tvg-name="TV 8.5 HD⚽️" tvg-logo="http://logo1010.com/news/tv8.5-fhd.png" group-title="► Spor / D-Smart⚽️",TV 8.5 HD⚽️
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/59410.ts
+#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor 1 HD⚽️" tvg-logo="http://logo1010.com/cdn/exxen/exxen-1.png" group-title="► Exxen Spor⚽️",Exxen Spor 1 HD⚽️
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/189751.ts
+#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor 2 HD⚽️" tvg-logo="http://logo1010.com/news/exxen2-hd.png" group-title="► Exxen Spor⚽️",Exxen Spor 2 HD⚽️
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/189752.ts
+#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor 3 HD⚽️" tvg-logo="http://logo1010.com/news/exxen3-hd.png" group-title="► Exxen Spor⚽️",Exxen Spor 3 HD⚽️
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/189753.ts
+#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor 4 HD⚽️" tvg-logo="http://logo1010.com/news/exxen4-hd.png" group-title="► Exxen Spor⚽️",Exxen Spor 4 HD⚽️
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/189754.ts
+#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor 5 HD⚽️" tvg-logo="http://logo1010.com/news/exxen5-hd.png" group-title="► Exxen Spor⚽️",Exxen Spor 5 HD⚽️
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/197411.ts
+#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor 6 HD⚽️" tvg-logo="http://logo1010.com/news/exxen6-hd.png" group-title="► Exxen Spor⚽️",Exxen Spor 6 HD⚽️
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/197412.ts
+#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor 7 HD⚽️" tvg-logo="http://logo1010.com/news/exxen7-hd.png" group-title="► Exxen Spor⚽️",Exxen Spor 7 HD⚽️
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/197442.ts
+#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor 8 HD⚽️" tvg-logo="http://logo1010.com/news/exxen8-hd.png" group-title="► Exxen Spor⚽️",Exxen Spor 8 HD⚽️
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/197441.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tabii TV" tvg-logo="https://logo1010.com/yutube/tabitv.jpeg" group-title="► Tabii Spor⚽️",Tabii TV
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/361095.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tabi spor HD⚽️" tvg-logo="http://logo1010.com/tabii/1.png" group-title="► Tabii Spor⚽️",Tabi spor HD⚽️
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/333951.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tabi spor 1⚽️" tvg-logo="http://logo1010.com/tabii/2.png" group-title="► Tabii Spor⚽️",Tabi spor 1⚽️
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/333952.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tabi spor 2⚽️" tvg-logo="http://logo1010.com/tabii/3.png" group-title="► Tabii Spor⚽️",Tabi spor 2⚽️
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/333953.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tabi spor 3⚽️" tvg-logo="http://logo1010.com/tabii/4.png" group-title="► Tabii Spor⚽️",Tabi spor 3⚽️
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/333954.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tabi spor 4⚽️" tvg-logo="http://logo1010.com/tabii/5.png" group-title="► Tabii Spor⚽️",Tabi spor 4⚽️
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/333955.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tabi spor 5⚽️" tvg-logo="http://logo1010.com/tabii/6.png" group-title="► Tabii Spor⚽️",Tabi spor 5⚽️
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/333956.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tabi spor 6⚽️" tvg-logo="http://logo1010.com/tabii/7.png" group-title="► Tabii Spor⚽️",Tabi spor 6⚽️
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/333957.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tabii Spor 7⚽️" tvg-logo="http://logo1010.com/tabii/7.png" group-title="► Tabii Spor⚽️",Tabii Spor 7⚽️
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/394274.ts
+#EXTINF:-1 tvg-id="smartspor.tr" tvg-name="Smart Spor 1 HD⚽️" tvg-logo="http://logo1010.com/news/smartsp-fhd.png" group-title="► Spor / D-Smart⚽️",Smart Spor 1 HD⚽️
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/808.ts
+#EXTINF:-1 tvg-id="sporsmart.tr" tvg-name="Smart Spor 2 HD⚽️" tvg-logo="http://logo1010.com/news/smartsp2-hd.png" group-title="► Spor / D-Smart⚽️",Smart Spor 2 HD⚽️
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/121054.ts
+#EXTINF:-1 tvg-id="nbatv.tr" tvg-name="Nba TV HD⚽️" tvg-logo="http://logo1010.com/news/nba-hd.png" group-title="► Spor / D-Smart⚽️",Nba TV HD⚽️
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/817.ts
+#EXTINF:-1 tvg-id="eurosport1.tr" tvg-name="EuroSport 1 HD⚽️" tvg-logo="http://logo1010.com/news/euro-1.png" group-title="► Spor / D-Smart⚽️",EuroSport 1 HD⚽️
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/806.ts
+#EXTINF:-1 tvg-id="eurosport2.tr" tvg-name="EuroSport 2 HD⚽️" tvg-logo="http://logo1010.com/news/euro-2.png" group-title="► Spor / D-Smart⚽️",EuroSport 2 HD⚽️
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/805.ts
+#EXTINF:-1 tvg-id="Tivibu Spor 1 TR" tvg-name="Tivibu Spor 1 HD⚽️" tvg-logo="http://logo1010.com/news/tivibuspor1-hd.png" group-title="► Tivibu Spor⚽️",Tivibu Spor 1 HD⚽️
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/812.ts
+#EXTINF:-1 tvg-id="Tivibu Spor 2 TR" tvg-name="Tivibu Spor 2 HD⚽️" tvg-logo="http://logo1010.com/news/tivibuspor2-hd.png" group-title="► Tivibu Spor⚽️",Tivibu Spor 2 HD⚽️
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/811.ts
+#EXTINF:-1 tvg-id="Tivibu Spor 3 TR" tvg-name="Tivibu Spor 3 HD⚽️" tvg-logo="http://logo1010.com/news/tivibuspor3-hd.png" group-title="► Tivibu Spor⚽️",Tivibu Spor 3 HD⚽️
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/810.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tivibu Spor 4 HD⚽️" tvg-logo="http://logo1010.com/news/tivibuspor4-hd.png" group-title="► Tivibu Spor⚽️",Tivibu Spor 4 HD⚽️
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/121058.ts
+#EXTINF:-1 tvg-id="aspor.tr" tvg-name="A Spor HD⚽️" tvg-logo="http://logo1010.com/news/aspor-hd.png" group-title="► Spor / D-Smart⚽️",A Spor HD⚽️
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/697.ts
+#EXTINF:-1 tvg-id="aspor.tr" tvg-name="A Spor FHD⚽️" tvg-logo="http://logo1010.com/news/aspor-fhd.png" group-title="► Spor / D-Smart⚽️",A Spor FHD⚽️
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/197434.ts
+#EXTINF:-1 tvg-id="gstv.tr" tvg-name="GS Tv HD⚽️" tvg-logo="http://logo1010.com/news/gs-hd.png" group-title="► Spor / D-Smart⚽️",GS Tv HD⚽️
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/818.ts
+#EXTINF:-1 tvg-id="fbtv.tr" tvg-name="FB TV HD⚽️" tvg-logo="http://logo1010.com/news/fb-hd.png" group-title="► Spor / D-Smart⚽️",FB TV HD⚽️
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/687.ts
+#EXTINF:-1 tvg-id="" tvg-name="İdman Tv HD⚽️" tvg-logo="http://logo1010.com/cdn/spor/idman.png" group-title="► Spor / D-Smart⚽️",İdman Tv HD⚽️
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/189247.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tay TV HD⚽️" tvg-logo="http://logo1010.com/news/taytv-hd.png" group-title="► Spor / D-Smart⚽️",Tay TV HD⚽️
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/695.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fight Screen⚽️" tvg-logo="http://logo1010.com/ens/stock-vector-versus-banner-vs-game-battle-with-lightning-on-isolated-white-background-vector-illustr.png" group-title="► Spor / D-Smart⚽️",Fight Screen⚽️
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/321249.ts
+#EXTINF:-1 tvg-id="" tvg-name="MYZENTV HD" tvg-logo="http://logo1010.com/ens/61lzpRamxZL.png" group-title="► Spor / D-Smart⚽️",MYZENTV HD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/345588.ts
+#EXTINF:-1 tvg-id="" tvg-name="TRACE SPORT STARS HD" tvg-logo="http://logo1010.com/ens/Tracesportstars2022.png" group-title="► Spor / D-Smart⚽️",TRACE SPORT STARS HD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/345589.ts
+#EXTINF:-1 tvg-id="" tvg-name="---------- ☾☆ Haber  ☾☆ ---------- " tvg-logo="http://logo1010.com/lg/filboxlogo.png" group-title="► Haber",---------- ☾☆ Haber  ☾☆ ---------- 
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/1890.ts
+#EXTINF:-1 tvg-id="trthaber.tr" tvg-name="TRT Haber HD" tvg-logo="http://logo1010.com/news/trthb-hd.png" group-title="► Haber",TRT Haber HD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/91203.ts
+#EXTINF:-1 tvg-id="ahaber.tr" tvg-name="A Haber HD" tvg-logo="http://logo1010.com/news/ahaber-hd.png" group-title="► Haber",A Haber HD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/41147.ts
+#EXTINF:-1 tvg-id="ahaber.tr" tvg-name="A Haber FHD" tvg-logo="http://logo1010.com/news/ahaber-fhd.png" group-title="► Haber",A Haber FHD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/696.ts
+#EXTINF:-1 tvg-id="apara.tr" tvg-name="A Para HD" tvg-logo="http://logo1010.com/news/apara-hd.png" group-title="► Haber",A Para HD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/59429.ts
+#EXTINF:-1 tvg-id="anews.tr" tvg-name="A News HD" tvg-logo="http://logo1010.com/cdn/haber/anewsfhd.png" group-title="► Haber",A News HD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/139365.ts
+#EXTINF:-1 tvg-id="bloomberght.tr" tvg-name="Bloomberg HT FHD" tvg-logo="http://logo1010.com/news/bloomberg-fhd.png" group-title="► Haber",Bloomberg HT FHD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/41154.ts
+#EXTINF:-1 tvg-id="bloomberght.tr" tvg-name="Bloomberg HT HD" tvg-logo="http://logo1010.com/news/bloomberg-hd.png" group-title="► Haber",Bloomberg HT HD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/678.ts
+#EXTINF:-1 tvg-id="cnnturk.tr" tvg-name="CNN Turk Haber HD" tvg-logo="http://logo1010.com/news/cnnturk-hd.png" group-title="► Haber",CNN Turk Haber HD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/41146.ts
+#EXTINF:-1 tvg-id="cnnturk.tr" tvg-name="Cnn Turk Haber FHD" tvg-logo="http://logo1010.com/news/cnnturk-fhd.png" group-title="► Haber",Cnn Turk Haber FHD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/680.ts
+#EXTINF:-1 tvg-id="haberturk.tr" tvg-name="Haberturk FHD" tvg-logo="http://logo1010.com/news/hbturk-fhd.png" group-title="► Haber",Haberturk FHD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/91202.ts
+#EXTINF:-1 tvg-id="haberturk.tr" tvg-name="Haberturk HD" tvg-logo="http://logo1010.com/news/hbturk-fhd.png" group-title="► Haber",Haberturk HD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/683.ts
+#EXTINF:-1 tvg-id="haberglobal.tr" tvg-name="Haber Global HD" tvg-logo="http://logo1010.com/news/hbglobal-hd.png" group-title="► Haber",Haber Global HD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/41156.ts
+#EXTINF:-1 tvg-id="haberglobal.tr" tvg-name="Haber Global FHD" tvg-logo="http://logo1010.com/news/hbglobal-fhd.png" group-title="► Haber",Haber Global FHD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/26605.ts
+#EXTINF:-1 tvg-id="ulketv.tr" tvg-name="Ulke TV HD" tvg-logo="http://logo1010.com/news/%C3%BClkehb-hd.png" group-title="► Haber",Ulke TV HD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/41145.ts
+#EXTINF:-1 tvg-id="ulketv.tr" tvg-name="Ulke TV FHD" tvg-logo="http://logo1010.com/news/%C3%BClkehb-fhd.png" group-title="► Haber",Ulke TV FHD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/676.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ekol Tv HD" tvg-logo="http://logo1010.com/news/ekoltv.png" group-title="► Haber",Ekol Tv HD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/335100.ts
+#EXTINF:-1 tvg-id="halk.tr" tvg-name="Halk TV HD" tvg-logo="http://logo1010.com/news/halktv-hd.png" group-title="► Haber",Halk TV HD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/41155.ts
+#EXTINF:-1 tvg-id="halk.tr" tvg-name="Halk Tv FHD" tvg-logo="http://logo1010.com/news/halktv-fhd.png" group-title="► Haber",Halk Tv FHD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/772.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sözcü Tv HD" tvg-logo="http://logo1010.com/news/s%C3%B6zc%C3%BChb-hd.png" group-title="► Haber",Sözcü Tv HD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/213272.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sözcü Tv FHD" tvg-logo="http://logo1010.com/news/s%C3%B6zc%C3%BChb-hd.png" group-title="► Haber",Sözcü Tv FHD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/352423.ts
+#EXTINF:-1 tvg-id="tele1.tr" tvg-name="Tele 1 HD" tvg-logo="http://logo1010.com/news/tele1-hd.png" group-title="► Haber",Tele 1 HD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/41159.ts
+#EXTINF:-1 tvg-id="tele1.tr" tvg-name="Tele 1 FHD" tvg-logo="http://logo1010.com/news/tele1-fhd.png" group-title="► Haber",Tele 1 FHD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/13268.ts
+#EXTINF:-1 tvg-id="flashhaber.tr" tvg-name="Flash Haber HD" tvg-logo="http://logo1010.com/news/flashhaber-hd.png" group-title="► Haber",Flash Haber HD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/198042.ts
+#EXTINF:-1 tvg-id="ulusalkanal.tr" tvg-name="Ulusal TV HD" tvg-logo="http://logo1010.com/news/ulusal-hd.png" group-title="► Haber",Ulusal TV HD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/20927.ts
+#EXTINF:-1 tvg-id="ulusalkanal.tr" tvg-name="Ulusal Tv SD" tvg-logo="http://logo1010.com/logo/ulusal_kanal.png" group-title="► Haber",Ulusal Tv SD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/41144.ts
+#EXTINF:-1 tvg-id="ntv.tr" tvg-name="NTV HD" tvg-logo="http://logo1010.com/news/ntv-hd.png" group-title="► Haber",NTV HD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/41152.ts
+#EXTINF:-1 tvg-id="ntv.tr" tvg-name="NTV FHD" tvg-logo="http://logo1010.com/news/ntv-fhd.png" group-title="► Haber",NTV FHD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/776.ts
+#EXTINF:-1 tvg-id="tgrthaber.tr" tvg-name="Tgrt Haber HD" tvg-logo="http://logo1010.com/news/tgrthb-hd.png" group-title="► Haber",Tgrt Haber HD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/10425.ts
+#EXTINF:-1 tvg-id="tv100.tr" tvg-name="TV 100 HD" tvg-logo="http://logo1010.com/news/tv100-hd.png" group-title="► Haber",TV 100 HD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/41150.ts
+#EXTINF:-1 tvg-id="TV5.fi" tvg-name="TV5 SD" tvg-logo="http://logo1010.com/logo/tv5_tr.png" group-title="► Haber",TV5 SD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/41160.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV5 HD" tvg-logo="http://logo1010.com/logo/tv5_tr.png" group-title="► Haber",TV5 HD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/37069.ts
+#EXTINF:-1 tvg-id="24.tr" tvg-name="24 HD" tvg-logo="http://logo1010.com/news/24-hd.png" group-title="► Haber",24 HD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/9449.ts
+#EXTINF:-1 tvg-id="ekoturk.tr" tvg-name="Ekoturk HD" tvg-logo="http://logo1010.com/news/ekoturk-hd.png" group-title="► Haber",Ekoturk HD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/691.ts
+#EXTINF:-1 tvg-id="" tvg-name="ILKE TV" tvg-logo="http://logo1010.com/ens/images9.png" group-title="► Haber",ILKE TV
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/352717.ts
+#EXTINF:-1 tvg-id="" tvg-name="TH Türk Haber HD" tvg-logo="https://gbzottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/logo/202308/20230823/41/202308231427309752la_op_0_XL.png" group-title="► Haber",TH Türk Haber HD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/122737.ts
+#EXTINF:-1 tvg-id="benguturk.tr" tvg-name="Benguturk HD " tvg-logo="http://logo1010.com/cdn/ulusal/benguturk.png" group-title="► Haber",Benguturk HD 
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/802.ts
+#EXTINF:-1 tvg-id="liderhaber.tv" tvg-name="Lider Haber SD" tvg-logo="http://logo1010.com/lg/liderhaber.png" group-title="► Haber",Lider Haber SD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/234968.ts
+#EXTINF:-1 tvg-id="krt.tr" tvg-name="KB: KRT TV HD" tvg-logo="http://logo1010.com/news/krt-hd.png" group-title="► Haber",KB: KRT TV HD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/59434.ts
+#EXTINF:-1 tvg-id="" tvg-name="CNBC-e HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/CNBC-e-Logo.png/200px-CNBC-e-Logo.png" group-title="► Haber",CNBC-e HD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/332388.ts
+#EXTINF:-1 tvg-id="" tvg-name="4K✦ Sinema 1" tvg-logo="http://logo1010.com/cdn/netfilix-sinema/4k.png" group-title="► 4K Premium",4K✦ Sinema 1
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/354570.ts
+#EXTINF:-1 tvg-id="" tvg-name="4K✦ Transformers Box Set" tvg-logo="http://logo1010.com/cdn/netfilix-sinema/4k.png" group-title="► 4K Premium",4K✦ Transformers Box Set
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/354710.ts
+#EXTINF:-1 tvg-id="" tvg-name="4K✦ Kaptan Amerika BoxSet" tvg-logo="http://logo1010.com/cdn/netfilix-sinema/4k.png" group-title="► 4K Premium",4K✦ Kaptan Amerika BoxSet
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/355079.ts
+#EXTINF:-1 tvg-id="" tvg-name="4K✦ Yenilmezler BoxSet" tvg-logo="http://logo1010.com/cdn/netfilix-sinema/4k.png" group-title="► 4K Premium",4K✦ Yenilmezler BoxSet
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/355096.ts
+#EXTINF:-1 tvg-id="" tvg-name="4K✦ Buz Devri-Boxset" tvg-logo="http://logo1010.com/cdn/netfilix-sinema/4k.png" group-title="► 4K Premium",4K✦ Buz Devri-Boxset
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/355105.ts
+#EXTINF:-1 tvg-id="" tvg-name="4K✦ Demir Adam BoxSet" tvg-logo="http://logo1010.com/cdn/netfilix-sinema/4k.png" group-title="► 4K Premium",4K✦ Demir Adam BoxSet
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/355130.ts
+#EXTINF:-1 tvg-id="" tvg-name="4K✦ Karınca Adam BoxSet" tvg-logo="http://logo1010.com/cdn/netfilix-sinema/4k.png" group-title="► 4K Premium",4K✦ Karınca Adam BoxSet
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/355211.ts
+#EXTINF:-1 tvg-id="" tvg-name="4K✦ Galaksinin Koruyucuları BoxSet" tvg-logo="http://logo1010.com/cdn/netfilix-sinema/4k.png" group-title="► 4K Premium",4K✦ Galaksinin Koruyucuları BoxSet
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/355212.ts
+#EXTINF:-1 tvg-id="" tvg-name="4K✦ Matrix BoxSet" tvg-logo="http://logo1010.com/cdn/netfilix-sinema/4k.png" group-title="► 4K Premium",4K✦ Matrix BoxSet
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/355213.ts
+#EXTINF:-1 tvg-id="" tvg-name="4K✦ Yüzüklerin Efendisi BoxSet" tvg-logo="http://logo1010.com/cdn/netfilix-sinema/4k.png" group-title="► 4K Premium",4K✦ Yüzüklerin Efendisi BoxSet
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/355214.ts
+#EXTINF:-1 tvg-id="" tvg-name="4K✦ Sicario BoxSet" tvg-logo="http://logo1010.com/cdn/netfilix-sinema/4k.png" group-title="► 4K Premium",4K✦ Sicario BoxSet
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/355231.ts
+#EXTINF:-1 tvg-id="" tvg-name="4K✦ Ocean's BoxSet  " tvg-logo="http://logo1010.com/cdn/netfilix-sinema/4k.png" group-title="► 4K Premium",4K✦ Ocean's BoxSet  
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/355232.ts
+#EXTINF:-1 tvg-id="" tvg-name="4K✦ Karayip Korsanları BoxSet" tvg-logo="http://logo1010.com/cdn/netfilix-sinema/4k.png" group-title="► 4K Premium",4K✦ Karayip Korsanları BoxSet
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/355233.ts
+#EXTINF:-1 tvg-id="" tvg-name="4K✦ Indiana Jones BoxSet " tvg-logo="http://logo1010.com/cdn/netfilix-sinema/4k.png" group-title="► 4K Premium",4K✦ Indiana Jones BoxSet 
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/355234.ts
+#EXTINF:-1 tvg-id="" tvg-name="4K✦ Recep İvedik Boxset" tvg-logo="http://logo1010.com/cdn/netfilix-sinema/4k.png" group-title="► 4K Premium",4K✦ Recep İvedik Boxset
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/356360.ts
+#EXTINF:-1 tvg-id="" tvg-name="4K✦ Yerli Sinema" tvg-logo="http://logo1010.com/cdn/netfilix-sinema/4k.png" group-title="► 4K Premium",4K✦ Yerli Sinema
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/356361.ts
+#EXTINF:-1 tvg-id="" tvg-name="4K✦ Animasyon" tvg-logo="http://logo1010.com/cdn/netfilix-sinema/4k.png" group-title="► 4K Premium",4K✦ Animasyon
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/355525.ts
+#EXTINF:-1 tvg-id="" tvg-name="4K✦ Yesilcam-1" tvg-logo="http://logo1010.com/cdn/netfilix-sinema/4k.png" group-title="► 4K Premium",4K✦ Yesilcam-1
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/355526.ts
+#EXTINF:-1 tvg-id="" tvg-name="4K✦ Music live" tvg-logo="http://logo1010.com/cdn/netfilix-sinema/4k.png" group-title="► 4K Premium",4K✦ Music live
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/355541.ts
+#EXTINF:-1 tvg-id="" tvg-name="4K✦ Yerli Pop" tvg-logo="http://logo1010.com/cdn/netfilix-sinema/4k.png" group-title="► 4K Premium",4K✦ Yerli Pop
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/355546.ts
+#EXTINF:-1 tvg-id="" tvg-name="4K✦ Belgesel" tvg-logo="http://logo1010.com/cdn/netfilix-sinema/4k.png" group-title="► 4K Premium",4K✦ Belgesel
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/355826.ts
+#EXTINF:-1 tvg-id="" tvg-name="---------- ☾☆ Belgesel ☾☆ ---------- " tvg-logo="http://logo1010.com/lg/filboxlogo.png" group-title="► Belgesel",---------- ☾☆ Belgesel ☾☆ ---------- 
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/1894.ts
+#EXTINF:-1 tvg-id="tlc.tr" tvg-name="TLC HD" tvg-logo="http://logo1010.com/news/tlc-hd.png" group-title="► Belgesel",TLC HD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/679.ts
+#EXTINF:-1 tvg-id="dmax.tr" tvg-name="Dmax FHD" tvg-logo="http://logo1010.com/news/dmax-hd.png" group-title="► Belgesel",Dmax FHD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/692.ts
+#EXTINF:-1 tvg-id="24.tr" tvg-name="Tgrt Belgesel HD" tvg-logo="http://logo1010.com/news/ltgrtbelgesel-hd.png" group-title="► Belgesel",Tgrt Belgesel HD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/197424.ts
+#EXTINF:-1 tvg-id="" tvg-name="Love Nature FHD" tvg-logo="http://logo1010.com/news/lovenature-fhd.png" group-title="► Belgesel",Love Nature FHD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/179240.ts
+#EXTINF:-1 tvg-id="trtbelgesel.tr" tvg-name="TRT Belgesel HD" tvg-logo="http://logo1010.com/news/trtbelgesel-hd.png" group-title="► Belgesel",TRT Belgesel HD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/682.ts
+#EXTINF:-1 tvg-id="" tvg-name="Çiftçi Tv SD" tvg-logo="http://logo1010.com/lg/ciftcitv.png" group-title="► Belgesel",Çiftçi Tv SD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/160039.ts
+#EXTINF:-1 tvg-id="" tvg-name="D-smart Bbc Earth FHD" tvg-logo="http://logo1010.com/news/bbcearth-fhd.png" group-title="► Belgesel",D-smart Bbc Earth FHD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/704.ts
+#EXTINF:-1 tvg-id="nationalgeographicwild.tr" tvg-name="D-Smart Nat Geo Wild HD" tvg-logo="http://logo1010.com/news/natgeow%C4%B1ld-hd.png" group-title="► Belgesel",D-Smart Nat Geo Wild HD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/711.ts
+#EXTINF:-1 tvg-id="discoverychannel.tr" tvg-name="D-Smart Discovery Channel HD" tvg-logo="http://logo1010.com/news/discoverychannel-hd.png" group-title="► Belgesel",D-Smart Discovery Channel HD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/766.ts
+#EXTINF:-1 tvg-id="nationalgeographic.tr" tvg-name="beIN National Geographic HD" tvg-logo="http://logo1010.com/news/natigeograp-hd.png" group-title="► Belgesel",beIN National Geographic HD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/758.ts
+#EXTINF:-1 tvg-id="viasatnaturehistory.tr" tvg-name="D-Smart Viasat History HD" tvg-logo="http://logo1010.com/news/vaisathistory-hd.png" group-title="► Belgesel",D-Smart Viasat History HD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/784.ts
+#EXTINF:-1 tvg-id="beiniz.tr" tvg-name="beIN Iz TV HD" tvg-logo="http://logo1010.com/news/beiniz-hd.png" group-title="► Belgesel",beIN Iz TV HD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/20838.ts
+#EXTINF:-1 tvg-id="beIN GURME HD TR" tvg-name="beIN Gurme HD" tvg-logo="http://logo1010.com/news/beingurme-hd.png" group-title="► Belgesel",beIN Gurme HD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/21749.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID Xtra HD" tvg-logo="http://logo1010.com/news/%C4%B1dbelgesel-hd.png" group-title="► Belgesel",ID Xtra HD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/121059.ts
+#EXTINF:-1 tvg-id="davinci.tr" tvg-name="Da Vinci Learning HD" tvg-logo="http://logo1010.com/cdn/haber/davincilearning.png" group-title="► Belgesel",Da Vinci Learning HD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/121107.ts
+#EXTINF:-1 tvg-id="" tvg-name="Viasat Explore HD" tvg-logo="http://logo1010.com/news/visiatex-hd.png" group-title="► Belgesel",Viasat Explore HD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/139272.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tarih Tv HD" tvg-logo="https://i.hizliresim.com/hun73g0.png" group-title="► Belgesel",Tarih Tv HD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/224469.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yaban TV HD" tvg-logo="http://logo1010.com/news/yaban-hd.png" group-title="► Belgesel",Yaban TV HD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/304525.ts
+#EXTINF:-1 tvg-id="22" tvg-name="Vip Channel Belgesel" tvg-logo="http://logo1010.com/ens/40.png" group-title="► Belgesel",Vip Channel Belgesel
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/347597.ts
+#EXTINF:-1 tvg-id="" tvg-name="DOCU SCREEN HD" tvg-logo="http://logo1010.com/ens/39.png" group-title="► Belgesel",DOCU SCREEN HD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/345622.ts
+#EXTINF:-1 tvg-id="" tvg-name="---------- ☾☆ Cizgi Film ☾☆ ---------- " tvg-logo="http://logo1010.com/lg/filboxlogo.png" group-title="► Cocuk",---------- ☾☆ Cizgi Film ☾☆ ---------- 
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/1895.ts
+#EXTINF:-1 tvg-id="23" tvg-name="Vip Channel Animasyon HD" tvg-logo="http://logo1010.com/ens/5ju7rjc.png" group-title="► Cocuk",Vip Channel Animasyon HD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/232611.ts
+#EXTINF:-1 tvg-id="trtcocuk.tr" tvg-name="TRT Cocuk FHD" tvg-logo="http://logo1010.com/news/trtcocuk-hd.png" group-title="► Cocuk",TRT Cocuk FHD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/786.ts
+#EXTINF:-1 tvg-id="nickelodeonhd.tr" tvg-name="Nickelodeon HD" tvg-logo="http://logo1010.com/news/nickeledon-hd.png" group-title="► Cocuk",Nickelodeon HD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/159998.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Disney Junior SD" tvg-logo="http://logo1010.com/news/disneyjunior-hd.png" group-title="► Cocuk",BeIN Disney Junior SD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/160035.ts
+#EXTINF:-1 tvg-id="nickjr.tr" tvg-name="Nick Jr HD" tvg-logo="http://logo1010.com/news/nickjr-hhd.png" group-title="► Cocuk",Nick Jr HD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/116334.ts
+#EXTINF:-1 tvg-id="babytv.tr" tvg-name="Baby TV HD" tvg-logo="http://logo1010.com/news/babytv-hd.png" group-title="► Cocuk",Baby TV HD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/13269.ts
+#EXTINF:-1 tvg-id="minikacocuk.tr" tvg-name="Minika Cocuk FHD" tvg-logo="http://logo1010.com/news/minikacocuk-hd.png" group-title="► Cocuk",Minika Cocuk FHD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/667.ts
+#EXTINF:-1 tvg-id="minikago.tr" tvg-name="Minika Go FHD" tvg-logo="http://logo1010.com/news/minikago-hd.png" group-title="► Cocuk",Minika Go FHD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/670.ts
+#EXTINF:-1 tvg-id="cartoonnetwork.tr" tvg-name="Cartoon Network HD" tvg-logo="http://logo1010.com/news/cn-hd.png" group-title="► Cocuk",Cartoon Network HD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/4933.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cartoonito HD" tvg-logo="http://logo1010.com/news/bomerangcocuk-hd.png" group-title="► Cocuk",Cartoonito HD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/701.ts
+#EXTINF:-1 tvg-id="smartcocuk.tr" tvg-name="D-Smart Smart Cocuk HD" tvg-logo="http://logo1010.com/news/smartcocuk-hd.png" group-title="► Cocuk",D-Smart Smart Cocuk HD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/723.ts
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON" tvg-logo="" group-title="► Cocuk",NICKELODEON
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/394138.ts
+#EXTINF:-1 tvg-id="" tvg-name="Trt Diyanet Çocuk HD" tvg-logo="https://canlitv.center/channels/trt-diyanet-cocuk.png" group-title="► Cocuk",Trt Diyanet Çocuk HD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/301035.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tivibu Spor HD⚽️" tvg-logo="http://logo1010.com/news/tivibuspor-hd.png" group-title="► Tivibu Spor⚽️",Tivibu Spor HD⚽️
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/211026.ts
+#EXTINF:-1 tvg-id="" tvg-name="Duck Tv HD" tvg-logo="https://gbzottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/logo/202001/20200127/20200127170319748y7q_op_0_XL.png" group-title="► Cocuk",Duck Tv HD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/213271.ts
+#EXTINF:-1 tvg-id="" tvg-name="W-SPORT HD⚽️" tvg-logo="http://logo1010.com/ens/w_sport_logo.png" group-title="► Spor / D-Smart⚽️",W-SPORT HD⚽️
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/335676.ts
+#EXTINF:-1 tvg-id="" tvg-name="ZAROK TV" tvg-logo="http://logo1010.com/ens/83.png" group-title="► Cocuk",ZAROK TV
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/335677.ts
+#EXTINF:-1 tvg-id="" tvg-name="COSMOSPORTS" tvg-logo="http://logo1010.com/news/cosmo.png" group-title="► Spor / D-Smart⚽️",COSMOSPORTS
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/363403.ts
+#EXTINF:-1 tvg-id="" tvg-name="TYT-TuRK" tvg-logo="http://logo1010.com/news/tytturk.png" group-title="► Ulusal",TYT-TuRK
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/363404.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPACETOON" tvg-logo="http://logo1010.com/news/space.png" group-title="► Cocuk",SPACETOON
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/363405.ts
+#EXTINF:-1 tvg-id="" tvg-name="YARGI-TV" tvg-logo="http://logo1010.com/news/yargitv.png" group-title="► Haber",YARGI-TV
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/363406.ts
+#EXTINF:-1 tvg-id="" tvg-name="BI KANAL" tvg-logo="http://logo1010.com/news/bikanal.png" group-title="► Spor / D-Smart⚽️",BI KANAL
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/375044.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tv 4 Hd " tvg-logo="https://logo1010.com/news/tv4hd.png" group-title="► Ulusal",Tv 4 Hd 
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/375622.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ekol Sports HD" tvg-logo="" group-title="► Spor / D-Smart⚽️",Ekol Sports HD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/376985.ts
+#EXTINF:-1 tvg-id="" tvg-name="STOON TV" tvg-logo="" group-title="► Cocuk",STOON TV
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/381805.ts
+#EXTINF:-1 tvg-id="" tvg-name="SIFIR TV" tvg-logo="http://logo1010.com/yutube/sifirtv.png" group-title="► Spor / D-Smart⚽️",SIFIR TV
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/382211.ts
+#EXTINF:-1 tvg-id="" tvg-name="MK TV" tvg-logo="http://logo1010.com/yutube/mktv.jpg" group-title="► Haber",MK TV
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/392531.ts
+#EXTINF:-1 tvg-id="" tvg-name="Neo Haber" tvg-logo="http://logo1010.com/yutube/nehaber.jpeg" group-title="► Haber",Neo Haber
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/392662.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Arena Box Belgesel" tvg-logo="http://185.138.166.251:80/images/DSHo3KyPasnlR8GF3xoI9M3FSFC9WjfGhZFoVkNXe9_UpqxWjHWxf_qfTuLZEWhK.png" group-title="► Belgesel",TR➤ Arena Box Belgesel
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/393230.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Proturk Egzersiz Sporları" tvg-logo="http://185.138.166.251:80/images/DSHo3KyPasnlR8GF3xoI9FIv3ssa7YddUBZnohdpvPT5Rv545tydSTX6plI7TxjF.png" group-title="► Belgesel",TR➤ Proturk Egzersiz Sporları
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/393362.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Mega Box Ülke Seyahat" tvg-logo="http://185.138.166.251:80/images/DSHo3KyPasnlR8GF3xoI9M_rhMtkU5r_7XrDLWSq4T3ELgxF5E5nLyKjgxGVXDRh.png" group-title="► Belgesel",TR➤ Mega Box Ülke Seyahat
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/393377.ts
+#EXTINF:-1 tvg-id="" tvg-name="4K✦ John Wick BoxSet" tvg-logo="http://logo1010.com/cdn/netfilix-sinema/4k.png" group-title="► 4K Premium",4K✦ John Wick BoxSet
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/396356.ts
+#EXTINF:-1 tvg-id="" tvg-name="4K✦ Rambo BoxSet" tvg-logo="http://logo1010.com/cdn/netfilix-sinema/4k.png" group-title="► 4K Premium",4K✦ Rambo BoxSet
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/396357.ts
+#EXTINF:-1 tvg-id="" tvg-name="4K✦ Rocky BoxSet" tvg-logo="http://logo1010.com/cdn/netfilix-sinema/4k.png" group-title="► 4K Premium",4K✦ Rocky BoxSet
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/396358.ts
+#EXTINF:-1 tvg-id="" tvg-name="4K✦ Aquaman BoxSet" tvg-logo="http://logo1010.com/cdn/netfilix-sinema/4k.png" group-title="► 4K Premium",4K✦ Aquaman BoxSet
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/396402.ts
+#EXTINF:-1 tvg-id="" tvg-name="4K✦ Cehennem Melekleri BoxSet" tvg-logo="http://logo1010.com/cdn/netfilix-sinema/4k.png" group-title="► 4K Premium",4K✦ Cehennem Melekleri BoxSet
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/396403.ts
+#EXTINF:-1 tvg-id="" tvg-name="4K✦ Dan Brown BoxSet" tvg-logo="http://logo1010.com/cdn/netfilix-sinema/4k.png" group-title="► 4K Premium",4K✦ Dan Brown BoxSet
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/396404.ts
+#EXTINF:-1 tvg-id="" tvg-name="4K✦ Doctor Strange BoxSet" tvg-logo="http://logo1010.com/cdn/netfilix-sinema/4k.png" group-title="► 4K Premium",4K✦ Doctor Strange BoxSet
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/396405.ts
+#EXTINF:-1 tvg-id="" tvg-name="4K✦ Dune Çöl Gezegeni BoxSet" tvg-logo="http://logo1010.com/cdn/netfilix-sinema/4k.png" group-title="► 4K Premium",4K✦ Dune Çöl Gezegeni BoxSet
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/396406.ts
+#EXTINF:-1 tvg-id="" tvg-name="4K✦ Gladyatör BoxSet" tvg-logo="http://logo1010.com/cdn/netfilix-sinema/4k.png" group-title="► 4K Premium",4K✦ Gladyatör BoxSet
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/396407.ts
+#EXTINF:-1 tvg-id="" tvg-name="4K✦ Avatar BoxSet" tvg-logo="http://logo1010.com/cdn/netfilix-sinema/4k.png" group-title="► 4K Premium",4K✦ Avatar BoxSet
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/396408.ts
+#EXTINF:-1 tvg-id="" tvg-name="Real Box ✦ Animasyon" tvg-logo="https://i.hizliresim.com/g96qwpj.png" group-title="► Cocuk",Real Box ✦ Animasyon
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/396664.ts
+#EXTINF:-1 tvg-id="" tvg-name="Real Box ✦ Niloya" tvg-logo="https://i.hizliresim.com/g96qwpj.png" group-title="► Cocuk",Real Box ✦ Niloya
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/396665.ts
+#EXTINF:-1 tvg-id="" tvg-name="Real Box ✦ Pepee" tvg-logo="https://i.hizliresim.com/g96qwpj.png" group-title="► Cocuk",Real Box ✦ Pepee
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/396666.ts
+#EXTINF:-1 tvg-id="" tvg-name="Real Box ✦ Booba" tvg-logo="https://i.hizliresim.com/g96qwpj.png" group-title="► Cocuk",Real Box ✦ Booba
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/396667.ts
+#EXTINF:-1 tvg-id="" tvg-name="Real Box ✦ Kukuli" tvg-logo="https://i.hizliresim.com/g96qwpj.png" group-title="► Cocuk",Real Box ✦ Kukuli
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/396668.ts
+#EXTINF:-1 tvg-id="" tvg-name="Real Box ✦ Kral Sakir" tvg-logo="https://i.hizliresim.com/g96qwpj.png" group-title="► Cocuk",Real Box ✦ Kral Sakir
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/396669.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mega Box ✦ Animsyon" tvg-logo="https://i.hizliresim.com/sbgxkey.png" group-title="► Cocuk",Mega Box ✦ Animsyon
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/396670.ts
+#EXTINF:-1 tvg-id="" tvg-name="Proturk Box ✦ Masal Diyarı" tvg-logo="https://i.hizliresim.com/ow6wjya.png" group-title="► Cocuk",Proturk Box ✦ Masal Diyarı
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/396671.ts
+#EXTINF:-1 tvg-id="" tvg-name="Proturk ✦ Animasyon" tvg-logo="https://i.hizliresim.com/ow6wjya.png" group-title="► Cocuk",Proturk ✦ Animasyon
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/397383.ts
+#EXTINF:-1 tvg-id="" tvg-name="Arena Box ✦ Animasyon" tvg-logo="https://i.hizliresim.com/4jfpvob.png" group-title="► Cocuk",Arena Box ✦ Animasyon
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/397402.ts
+#EXTINF:-1 tvg-id="" tvg-name="TRT 1 FHD" tvg-logo="http://logo1010.com/news/trt1-hd.png" group-title="► Ulusal Favori",TRT 1 FHD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/401536.ts
+#EXTINF:-1 tvg-id="" tvg-name="Atv FHD" tvg-logo="http://logo1010.com/news/atv-fhd.png" group-title="► Ulusal Favori",Atv FHD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/401537.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kanal D FHD" tvg-logo="http://logo1010.com/news/kanald-fhd.png" group-title="► Ulusal Favori",Kanal D FHD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/401538.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tv8 FHD" tvg-logo="http://logo1010.com/news/tv8-fhd.png" group-title="► Ulusal Favori",Tv8 FHD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/401539.ts
+#EXTINF:-1 tvg-id="" tvg-name="Now FHD" tvg-logo="http://logo1010.com/news/fox-fhd.png" group-title="► Ulusal Favori",Now FHD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/401540.ts
+#EXTINF:-1 tvg-id="" tvg-name="Star TV FHD" tvg-logo="http://logo1010.com/news/startv-fhd.png" group-title="► Ulusal Favori",Star TV FHD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/401541.ts
+#EXTINF:-1 tvg-id="" tvg-name="Show TV FHD" tvg-logo="http://logo1010.com/news/showtv-fhd.png" group-title="► Ulusal Favori",Show TV FHD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/401542.ts
+#EXTINF:-1 tvg-id="" tvg-name="CNN TURK FHD" tvg-logo="http://logo1010.com/news/cnnturk-fhd.png" group-title="► Ulusal Favori",CNN TURK FHD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/401543.ts
+#EXTINF:-1 tvg-id="" tvg-name="TRT HABER FHD" tvg-logo="http://logo1010.com/news/trthb-fhd.png" group-title="► Ulusal Favori",TRT HABER FHD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/401544.ts
+#EXTINF:-1 tvg-id="" tvg-name="A HABER FHD" tvg-logo="http://logo1010.com/news/ahaber-fhd.png" group-title="► Ulusal Favori",A HABER FHD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/401545.ts
+#EXTINF:-1 tvg-id="" tvg-name="HABER TURK FHD" tvg-logo="http://logo1010.com/news/hbturk-fhd.png" group-title="► Ulusal Favori",HABER TURK FHD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/401546.ts
+#EXTINF:-1 tvg-id="" tvg-name="NTV FHD" tvg-logo="http://logo1010.com/news/ntv-fhd.png" group-title="► Ulusal Favori",NTV FHD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/401547.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ekol Tv HD" tvg-logo="http://logo1010.com/news/ekoltv.png" group-title="► Ulusal Favori",Ekol Tv HD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/401548.ts
+#EXTINF:-1 tvg-id="" tvg-name="TRT COCUK HD" tvg-logo="http://logo1010.com/news/trtcocuk-hd.png" group-title="► Ulusal Favori",TRT COCUK HD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/401549.ts
+#EXTINF:-1 tvg-id="" tvg-name="Trt Diyanet Çocuk HD" tvg-logo="http://logo1010.com/ens/307.png" group-title="► Ulusal Favori",Trt Diyanet Çocuk HD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/401550.ts
+#EXTINF:-1 tvg-id="" tvg-name="TRT BELGESEL HD" tvg-logo="http://logo1010.com/news/trtbelgesel-hd.png" group-title="► Ulusal Favori",TRT BELGESEL HD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/401551.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sözcü Tv FHD" tvg-logo="http://logo1010.com/news/s%C3%B6zc%C3%BChb-hd.png" group-title="► Ulusal Favori",Sözcü Tv FHD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/401552.ts
+#EXTINF:-1 tvg-id="" tvg-name="HALK TV FHD" tvg-logo="http://logo1010.com/news/halktv-fhd.png" group-title="► Ulusal Favori",HALK TV FHD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/401553.ts
+#EXTINF:-1 tvg-id="" tvg-name="Haber Global FHD" tvg-logo="http://logo1010.com/news/hbglobal-fhd.png" group-title="► Ulusal Favori",Haber Global FHD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/401554.ts
+#EXTINF:-1 tvg-id="" tvg-name="Trt Spor FHD⚽️" tvg-logo="http://logo1010.com/news/trtspor-fhd.png" group-title="► Ulusal Favori",Trt Spor FHD⚽️
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/401555.ts
+#EXTINF:-1 tvg-id="" tvg-name="A Spor FHD⚽️" tvg-logo="http://logo1010.com/news/aspor-fhd.png" group-title="► Ulusal Favori",A Spor FHD⚽️
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/401556.ts
+#EXTINF:-1 tvg-id="" tvg-name="Trt Spor Yıldız HD⚽️" tvg-logo="http://logo1010.com/news/trty%C4%B1ld%C4%B1z-hd.png" group-title="► Ulusal Favori",Trt Spor Yıldız HD⚽️
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/401557.ts
+#EXTINF:-1 tvg-id="" tvg-name="HT SPOR HD⚽️" tvg-logo="https://gbzottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/logo/202408/20240823/7/0822287635005eb8f42a_op_0_XL.png" group-title="► Ulusal Favori",HT SPOR HD⚽️
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/401558.ts
+#EXTINF:-1 tvg-id="" tvg-name="TRT BELGESEL HD" tvg-logo="http://emr91.eu:8080/Plus@vwvJHPR4jGFq/nDrZkPDvCXvC/1001" group-title="► Ulusal Favori",TRT BELGESEL HD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/401559.ts
+#EXTINF:-1 tvg-id="" tvg-name="BoxSet✦ Alvin ve Sincaplar" tvg-logo="" group-title="► Cocuk",BoxSet✦ Alvin ve Sincaplar
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/402086.ts
+#EXTINF:-1 tvg-id="" tvg-name="BoxSet✦ Arabalar" tvg-logo="" group-title="► Cocuk",BoxSet✦ Arabalar
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/402090.ts
+#EXTINF:-1 tvg-id="" tvg-name="BoxSet✦ Arthur ile Minimoylar" tvg-logo="" group-title="► Cocuk",BoxSet✦ Arthur ile Minimoylar
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/402092.ts
+#EXTINF:-1 tvg-id="" tvg-name="BoxSet✦ Buz Devri" tvg-logo="" group-title="► Cocuk",BoxSet✦ Buz Devri
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/402103.ts
+#EXTINF:-1 tvg-id="" tvg-name="BoxSet✦ Çılgın Hırsız" tvg-logo="" group-title="► Cocuk",BoxSet✦ Çılgın Hırsız
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/402111.ts
+#EXTINF:-1 tvg-id="" tvg-name="BoxSet✦ Ejderhanı Nasıl Eğitirsin" tvg-logo="" group-title="► Cocuk",BoxSet✦ Ejderhanı Nasıl Eğitirsin
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/402116.ts
+#EXTINF:-1 tvg-id="" tvg-name="BoxSet✦ İnanılmaz Aile" tvg-logo="" group-title="► Cocuk",BoxSet✦ İnanılmaz Aile
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/402135.ts
+#EXTINF:-1 tvg-id="" tvg-name="BoxSet✦ Karlar Ülkesi" tvg-logo="" group-title="► Cocuk",BoxSet✦ Karlar Ülkesi
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/402149.ts
+#EXTINF:-1 tvg-id="" tvg-name="BoxSet✦ Köfte Yağmuru" tvg-logo="" group-title="► Cocuk",BoxSet✦ Köfte Yağmuru
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/402159.ts
+#EXTINF:-1 tvg-id="" tvg-name="BoxSet✦ Kung Fu Panda" tvg-logo="" group-title="► Cocuk",BoxSet✦ Kung Fu Panda
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/402160.ts
+#EXTINF:-1 tvg-id="" tvg-name="BoxSet✦ Otel Transilvanya" tvg-logo="" group-title="► Cocuk",BoxSet✦ Otel Transilvanya
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/402176.ts
+#EXTINF:-1 tvg-id="" tvg-name="BoxSet✦ Sevimli Canavarlar" tvg-logo="" group-title="► Cocuk",BoxSet✦ Sevimli Canavarlar
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/402194.ts
+#EXTINF:-1 tvg-id="" tvg-name="BoxSet✦ Şrek" tvg-logo="" group-title="► Cocuk",BoxSet✦ Şrek
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/402207.ts
+#EXTINF:-1 tvg-id="" tvg-name="Animasyon ✦ Film Box 1" tvg-logo="" group-title="► Cocuk",Animasyon ✦ Film Box 1
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/409980.ts
+#EXTINF:-1 tvg-id="" tvg-name="Animasyon ✦ Film Box 2" tvg-logo="" group-title="► Cocuk",Animasyon ✦ Film Box 2
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/409981.ts
+#EXTINF:-1 tvg-id="" tvg-name="Animasyon ✦ Film Box 3" tvg-logo="" group-title="► Cocuk",Animasyon ✦ Film Box 3
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/409982.ts
+#EXTINF:-1 tvg-id="" tvg-name="Animasyon ✦ Film Box 4" tvg-logo="" group-title="► Cocuk",Animasyon ✦ Film Box 4
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/409983.ts
+#EXTINF:-1 tvg-id="" tvg-name="Animasyon ✦ Film Box 5" tvg-logo="" group-title="► Cocuk",Animasyon ✦ Film Box 5
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/409984.ts
+#EXTINF:-1 tvg-id="" tvg-name="Animasyon ✦ Film Box 6" tvg-logo="" group-title="► Cocuk",Animasyon ✦ Film Box 6
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/409985.ts
+#EXTINF:-1 tvg-id="" tvg-name="Animasyon ✦ Film Box 7" tvg-logo="" group-title="► Cocuk",Animasyon ✦ Film Box 7
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/409986.ts
+#EXTINF:-1 tvg-id="" tvg-name="Animasyon ✦ Film Box 8" tvg-logo="" group-title="► Cocuk",Animasyon ✦ Film Box 8
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/409987.ts
+#EXTINF:-1 tvg-id="" tvg-name="Animasyon ✦ Film Box 9" tvg-logo="" group-title="► Cocuk",Animasyon ✦ Film Box 9
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/409988.ts
+#EXTINF:-1 tvg-id="" tvg-name="Animasyon ✦ Film Box 10" tvg-logo="" group-title="► Cocuk",Animasyon ✦ Film Box 10
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/409989.ts
+#EXTINF:-1 tvg-id="" tvg-name="Animasyon ✦ Kaptan Tsubasa" tvg-logo="" group-title="► Cocuk",Animasyon ✦ Kaptan Tsubasa
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/409990.ts
+#EXTINF:-1 tvg-id="" tvg-name="Animasyon ✦ Karışık" tvg-logo="" group-title="► Cocuk",Animasyon ✦ Karışık
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/409991.ts
+#EXTINF:-1 tvg-id="" tvg-name="Animasyon ✦ Keloğlan" tvg-logo="" group-title="► Cocuk",Animasyon ✦ Keloğlan
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/409992.ts
+#EXTINF:-1 tvg-id="" tvg-name="Animasyon ✦ Kral Şakir" tvg-logo="" group-title="► Cocuk",Animasyon ✦ Kral Şakir
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/409993.ts
+#EXTINF:-1 tvg-id="" tvg-name="Animasyon ✦ Maşa ile Koca Ayı" tvg-logo="" group-title="► Cocuk",Animasyon ✦ Maşa ile Koca Ayı
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/409994.ts
+#EXTINF:-1 tvg-id="" tvg-name="Animasyon ✦ Niloya" tvg-logo="" group-title="► Cocuk",Animasyon ✦ Niloya
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/409995.ts
+#EXTINF:-1 tvg-id="" tvg-name="Animasyon ✦ Pepee" tvg-logo="" group-title="► Cocuk",Animasyon ✦ Pepee
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/409996.ts
+#EXTINF:-1 tvg-id="" tvg-name="Animasyon ✦ Rafadan Tayfa" tvg-logo="" group-title="► Cocuk",Animasyon ✦ Rafadan Tayfa
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/409997.ts
+#EXTINF:-1 tvg-id="" tvg-name="Animasyon ✦ Red Kit" tvg-logo="" group-title="► Cocuk",Animasyon ✦ Red Kit
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/409998.ts
+#EXTINF:-1 tvg-id="" tvg-name="Animasyon ✦ Şirinler" tvg-logo="" group-title="► Cocuk",Animasyon ✦ Şirinler
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/409999.ts
+#EXTINF:-1 tvg-id="" tvg-name="Belgesel ✦ Mix 1" tvg-logo="" group-title="► Belgesel",Belgesel ✦ Mix 1
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411584.ts
+#EXTINF:-1 tvg-id="" tvg-name="Belgesel ✦ Mix 2" tvg-logo="" group-title="► Belgesel",Belgesel ✦ Mix 2
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411585.ts
+#EXTINF:-1 tvg-id="" tvg-name="Belgesel ✦ Mix 3" tvg-logo="" group-title="► Belgesel",Belgesel ✦ Mix 3
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411586.ts
+#EXTINF:-1 tvg-id="" tvg-name="Belgesel ✦ Mix 4" tvg-logo="" group-title="► Belgesel",Belgesel ✦ Mix 4
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411587.ts
+#EXTINF:-1 tvg-id="" tvg-name="Belgesel ✦ Mix 5" tvg-logo="" group-title="► Belgesel",Belgesel ✦ Mix 5
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411588.ts
+#EXTINF:-1 tvg-id="" tvg-name="Belgesel ✦ Mix 6" tvg-logo="" group-title="► Belgesel",Belgesel ✦ Mix 6
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411589.ts
+#EXTINF:-1 tvg-id="" tvg-name="Belgesel ✦ Mix 7" tvg-logo="" group-title="► Belgesel",Belgesel ✦ Mix 7
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411590.ts
+#EXTINF:-1 tvg-id="" tvg-name="Belgesel ✦ Mix 8" tvg-logo="" group-title="► Belgesel",Belgesel ✦ Mix 8
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411591.ts
+#EXTINF:-1 tvg-id="" tvg-name="Belgesel ✦ Mix 9" tvg-logo="" group-title="► Belgesel",Belgesel ✦ Mix 9
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411592.ts
+#EXTINF:-1 tvg-id="" tvg-name="Belgesel ✦ Antik Uygarliklar" tvg-logo="" group-title="► Belgesel",Belgesel ✦ Antik Uygarliklar
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411593.ts
+#EXTINF:-1 tvg-id="" tvg-name="Belgesel ✦ Ay" tvg-logo="" group-title="► Belgesel",Belgesel ✦ Ay
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411594.ts
+#EXTINF:-1 tvg-id="" tvg-name="Belgesel ✦ Bilim" tvg-logo="" group-title="► Belgesel",Belgesel ✦ Bilim
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411595.ts
+#EXTINF:-1 tvg-id="" tvg-name="Belgesel ✦ Buyuk Kediler" tvg-logo="" group-title="► Belgesel",Belgesel ✦ Buyuk Kediler
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411596.ts
+#EXTINF:-1 tvg-id="" tvg-name="Belgesel ✦ Daglar" tvg-logo="" group-title="► Belgesel",Belgesel ✦ Daglar
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411597.ts
+#EXTINF:-1 tvg-id="" tvg-name="Belgesel ✦ Deniz Canlilari" tvg-logo="" group-title="► Belgesel",Belgesel ✦ Deniz Canlilari
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411598.ts
+#EXTINF:-1 tvg-id="" tvg-name="Belgesel ✦ Doga" tvg-logo="" group-title="► Belgesel",Belgesel ✦ Doga
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411599.ts
+#EXTINF:-1 tvg-id="" tvg-name="Belgesel ✦ Enerji" tvg-logo="" group-title="► Belgesel",Belgesel ✦ Enerji
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411600.ts
+#EXTINF:-1 tvg-id="" tvg-name="Belgesel ✦ Galaksiler" tvg-logo="" group-title="► Belgesel",Belgesel ✦ Galaksiler
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411601.ts
+#EXTINF:-1 tvg-id="" tvg-name="Belgesel ✦ Gizemler" tvg-logo="" group-title="► Belgesel",Belgesel ✦ Gizemler
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411602.ts
+#EXTINF:-1 tvg-id="" tvg-name="Belgesel ✦ Hayvanlar" tvg-logo="" group-title="► Belgesel",Belgesel ✦ Hayvanlar
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411603.ts
+#EXTINF:-1 tvg-id="" tvg-name="Belgesel ✦ Kayip Sehirler" tvg-logo="" group-title="► Belgesel",Belgesel ✦ Kayip Sehirler
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411604.ts
+#EXTINF:-1 tvg-id="" tvg-name="Belgesel ✦ Kozmos" tvg-logo="" group-title="► Belgesel",Belgesel ✦ Kozmos
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411605.ts
+#EXTINF:-1 tvg-id="" tvg-name="Belgesel ✦ Kuslar" tvg-logo="" group-title="► Belgesel",Belgesel ✦ Kuslar
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411606.ts
+#EXTINF:-1 tvg-id="" tvg-name="Belgesel ✦ Kutup" tvg-logo="" group-title="► Belgesel",Belgesel ✦ Kutup
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411607.ts
+#EXTINF:-1 tvg-id="" tvg-name="Belgesel ✦ Mars" tvg-logo="" group-title="► Belgesel",Belgesel ✦ Mars
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411608.ts
+#EXTINF:-1 tvg-id="" tvg-name="Belgesel ✦ Mercan Resifleri" tvg-logo="" group-title="► Belgesel",Belgesel ✦ Mercan Resifleri
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411609.ts
+#EXTINF:-1 tvg-id="" tvg-name="Belgesel ✦ Nehirler" tvg-logo="" group-title="► Belgesel",Belgesel ✦ Nehirler
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411610.ts
+#EXTINF:-1 tvg-id="" tvg-name="Belgesel ✦ Okyanus" tvg-logo="" group-title="► Belgesel",Belgesel ✦ Okyanus
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411611.ts
+#EXTINF:-1 tvg-id="" tvg-name="Belgesel ✦ Orman" tvg-logo="" group-title="► Belgesel",Belgesel ✦ Orman
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411612.ts
+#EXTINF:-1 tvg-id="" tvg-name="Belgesel ✦ Robotlar" tvg-logo="" group-title="► Belgesel",Belgesel ✦ Robotlar
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411613.ts
+#EXTINF:-1 tvg-id="" tvg-name="Belgesel ✦ Savaslar" tvg-logo="" group-title="► Belgesel",Belgesel ✦ Savaslar
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411614.ts
+#EXTINF:-1 tvg-id="" tvg-name="Belgesel ✦ Teknoloji" tvg-logo="" group-title="► Belgesel",Belgesel ✦ Teknoloji
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411615.ts
+#EXTINF:-1 tvg-id="" tvg-name="Belgesel ✦ Turkiye" tvg-logo="" group-title="► Belgesel",Belgesel ✦ Turkiye
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411616.ts
+#EXTINF:-1 tvg-id="" tvg-name="Belgesel ✦ Uzay" tvg-logo="" group-title="► Belgesel",Belgesel ✦ Uzay
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411617.ts
+#EXTINF:-1 tvg-id="" tvg-name="Belgesel ✦ Uzay Arastirmalari" tvg-logo="" group-title="► Belgesel",Belgesel ✦ Uzay Arastirmalari
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411618.ts
+#EXTINF:-1 tvg-id="" tvg-name="Belgesel ✦ Vahsi Doga" tvg-logo="" group-title="► Belgesel",Belgesel ✦ Vahsi Doga
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411619.ts
+#EXTINF:-1 tvg-id="" tvg-name="Belgesel ✦ Yapay Zeka" tvg-logo="" group-title="► Belgesel",Belgesel ✦ Yapay Zeka
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411620.ts
+#EXTINF:-1 tvg-id="" tvg-name="Belgesel ✦ Yildizlar" tvg-logo="" group-title="► Belgesel",Belgesel ✦ Yildizlar
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411621.ts
+#EXTINF:-1 tvg-id="" tvg-name="Relax ✦ Afghanistan Scenic" tvg-logo="" group-title="► Belgesel",Relax ✦ Afghanistan Scenic
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411622.ts
+#EXTINF:-1 tvg-id="" tvg-name="Relax ✦ Africa Scenic" tvg-logo="" group-title="► Belgesel",Relax ✦ Africa Scenic
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411623.ts
+#EXTINF:-1 tvg-id="" tvg-name="Relax ✦ Alaska Scenic" tvg-logo="" group-title="► Belgesel",Relax ✦ Alaska Scenic
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411624.ts
+#EXTINF:-1 tvg-id="" tvg-name="Relax ✦ Albania Scenic" tvg-logo="" group-title="► Belgesel",Relax ✦ Albania Scenic
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411625.ts
+#EXTINF:-1 tvg-id="" tvg-name="Relax ✦ Algeria Scenic" tvg-logo="" group-title="► Belgesel",Relax ✦ Algeria Scenic
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411626.ts
+#EXTINF:-1 tvg-id="" tvg-name="Relax ✦ Angola Scenic" tvg-logo="" group-title="► Belgesel",Relax ✦ Angola Scenic
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411627.ts
+#EXTINF:-1 tvg-id="" tvg-name="Relax ✦ Animal Scenic" tvg-logo="" group-title="► Belgesel",Relax ✦ Animal Scenic
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411628.ts
+#EXTINF:-1 tvg-id="" tvg-name="Relax ✦ Antarctica Scenic" tvg-logo="" group-title="► Belgesel",Relax ✦ Antarctica Scenic
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411629.ts
+#EXTINF:-1 tvg-id="" tvg-name="Relax ✦ Aquarium-1" tvg-logo="" group-title="► Belgesel",Relax ✦ Aquarium-1
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411630.ts
+#EXTINF:-1 tvg-id="" tvg-name="Relax ✦ Aquarium-2" tvg-logo="" group-title="► Belgesel",Relax ✦ Aquarium-2
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411631.ts
+#EXTINF:-1 tvg-id="" tvg-name="Relax ✦ Argentina Scenic" tvg-logo="" group-title="► Belgesel",Relax ✦ Argentina Scenic
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411640.ts
+#EXTINF:-1 tvg-id="" tvg-name="Relax ✦ Asia-1" tvg-logo="" group-title="► Belgesel",Relax ✦ Asia-1
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411641.ts
+#EXTINF:-1 tvg-id="" tvg-name="Relax ✦ Asia-2" tvg-logo="" group-title="► Belgesel",Relax ✦ Asia-2
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411642.ts
+#EXTINF:-1 tvg-id="" tvg-name="Relax ✦ Asia-3" tvg-logo="" group-title="► Belgesel",Relax ✦ Asia-3
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411643.ts
+#EXTINF:-1 tvg-id="" tvg-name="Relax ✦ Asia-4" tvg-logo="" group-title="► Belgesel",Relax ✦ Asia-4
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411644.ts
+#EXTINF:-1 tvg-id="" tvg-name="Relax ✦ Asia-5" tvg-logo="" group-title="► Belgesel",Relax ✦ Asia-5
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411645.ts
+#EXTINF:-1 tvg-id="" tvg-name="Relax ✦ Asia-6" tvg-logo="" group-title="► Belgesel",Relax ✦ Asia-6
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411646.ts
+#EXTINF:-1 tvg-id="" tvg-name="Relax ✦ Asia-7" tvg-logo="" group-title="► Belgesel",Relax ✦ Asia-7
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411647.ts
+#EXTINF:-1 tvg-id="" tvg-name="Relax ✦ Asia-8" tvg-logo="" group-title="► Belgesel",Relax ✦ Asia-8
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411648.ts
+#EXTINF:-1 tvg-id="" tvg-name="Relax ✦ Asia-9" tvg-logo="" group-title="► Belgesel",Relax ✦ Asia-9
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411649.ts
+#EXTINF:-1 tvg-id="" tvg-name="Relax ✦ Asia-10" tvg-logo="" group-title="► Belgesel",Relax ✦ Asia-10
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411650.ts
+#EXTINF:-1 tvg-id="" tvg-name="Relax ✦ Asia Scenic" tvg-logo="" group-title="► Belgesel",Relax ✦ Asia Scenic
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411651.ts
+#EXTINF:-1 tvg-id="" tvg-name="Relax ✦ Australia Scenic" tvg-logo="" group-title="► Belgesel",Relax ✦ Australia Scenic
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411652.ts
+#EXTINF:-1 tvg-id="" tvg-name="Relax ✦ Austria Scenic" tvg-logo="" group-title="► Belgesel",Relax ✦ Austria Scenic
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411653.ts
+#EXTINF:-1 tvg-id="" tvg-name="Relax ✦ Azerbaijan Scenic" tvg-logo="" group-title="► Belgesel",Relax ✦ Azerbaijan Scenic
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411654.ts
+#EXTINF:-1 tvg-id="" tvg-name="Relax ✦ Bangladesh Scenic" tvg-logo="" group-title="► Belgesel",Relax ✦ Bangladesh Scenic
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411655.ts
+#EXTINF:-1 tvg-id="" tvg-name="Relax ✦ Bolivia Scenic" tvg-logo="" group-title="► Belgesel",Relax ✦ Bolivia Scenic
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411656.ts
+#EXTINF:-1 tvg-id="" tvg-name="Relax ✦ Brazil Scenic" tvg-logo="" group-title="► Belgesel",Relax ✦ Brazil Scenic
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411657.ts
+#EXTINF:-1 tvg-id="" tvg-name="Relax ✦ Canada Scenic" tvg-logo="" group-title="► Belgesel",Relax ✦ Canada Scenic
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411658.ts
+#EXTINF:-1 tvg-id="" tvg-name="Relax ✦ Chile Scenic" tvg-logo="" group-title="► Belgesel",Relax ✦ Chile Scenic
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411659.ts
+#EXTINF:-1 tvg-id="" tvg-name="Relax ✦ China Scenic" tvg-logo="" group-title="► Belgesel",Relax ✦ China Scenic
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411660.ts
+#EXTINF:-1 tvg-id="" tvg-name="Relax ✦ Croatia Scenic" tvg-logo="" group-title="► Belgesel",Relax ✦ Croatia Scenic
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411661.ts
+#EXTINF:-1 tvg-id="" tvg-name="Relax ✦ Faroe Islands Scenic" tvg-logo="" group-title="► Belgesel",Relax ✦ Faroe Islands Scenic
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411662.ts
+#EXTINF:-1 tvg-id="" tvg-name="Relax ✦ France Scenic" tvg-logo="" group-title="► Belgesel",Relax ✦ France Scenic
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411663.ts
+#EXTINF:-1 tvg-id="" tvg-name="Relax ✦ Germany Scenic" tvg-logo="" group-title="► Belgesel",Relax ✦ Germany Scenic
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411664.ts
+#EXTINF:-1 tvg-id="" tvg-name="Relax ✦ Italy Scenic" tvg-logo="" group-title="► Belgesel",Relax ✦ Italy Scenic
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411665.ts
+#EXTINF:-1 tvg-id="" tvg-name="Relax ✦ Norway Scenic" tvg-logo="" group-title="► Belgesel",Relax ✦ Norway Scenic
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411666.ts
+#EXTINF:-1 tvg-id="" tvg-name="Relax ✦ Switzerland Scenic" tvg-logo="" group-title="► Belgesel",Relax ✦ Switzerland Scenic
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411667.ts
+#EXTINF:-1 tvg-id="" tvg-name="Relax ✦ Turkey Scenic" tvg-logo="" group-title="► Belgesel",Relax ✦ Turkey Scenic
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411668.ts
+#EXTINF:-1 tvg-id="" tvg-name="Relax ✦ Europe 1" tvg-logo="" group-title="► Belgesel",Relax ✦ Europe 1
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411669.ts
+#EXTINF:-1 tvg-id="" tvg-name="Relax ✦ Europe 2" tvg-logo="" group-title="► Belgesel",Relax ✦ Europe 2
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411670.ts
+#EXTINF:-1 tvg-id="" tvg-name="Relax ✦ Europe 3" tvg-logo="" group-title="► Belgesel",Relax ✦ Europe 3
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411671.ts
+#EXTINF:-1 tvg-id="" tvg-name="Relax ✦ Europe 4" tvg-logo="" group-title="► Belgesel",Relax ✦ Europe 4
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411672.ts
+#EXTINF:-1 tvg-id="" tvg-name="Relax ✦ Europe 5" tvg-logo="" group-title="► Belgesel",Relax ✦ Europe 5
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411673.ts
+#EXTINF:-1 tvg-id="" tvg-name="Relax ✦ Europe 6" tvg-logo="" group-title="► Belgesel",Relax ✦ Europe 6
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411674.ts
+#EXTINF:-1 tvg-id="" tvg-name="Relax ✦ Europe 7" tvg-logo="" group-title="► Belgesel",Relax ✦ Europe 7
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411675.ts
+#EXTINF:-1 tvg-id="" tvg-name="Relax ✦ Europe 8" tvg-logo="" group-title="► Belgesel",Relax ✦ Europe 8
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411676.ts
+#EXTINF:-1 tvg-id="" tvg-name="Relax ✦ Europe 9" tvg-logo="" group-title="► Belgesel",Relax ✦ Europe 9
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411677.ts
+#EXTINF:-1 tvg-id="" tvg-name="Relax ✦ Europe 10" tvg-logo="" group-title="► Belgesel",Relax ✦ Europe 10
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411678.ts
+#EXTINF:-1 tvg-id="" tvg-name="Relax ✦ Marvel 1" tvg-logo="" group-title="► Belgesel",Relax ✦ Marvel 1
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411684.ts
+#EXTINF:-1 tvg-id="" tvg-name="Relax ✦ Marvel 2" tvg-logo="" group-title="► Belgesel",Relax ✦ Marvel 2
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411685.ts
+#EXTINF:-1 tvg-id="" tvg-name="Relax ✦ Marvel 3" tvg-logo="" group-title="► Belgesel",Relax ✦ Marvel 3
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411686.ts
+#EXTINF:-1 tvg-id="" tvg-name="Relax ✦ Okyanus 1" tvg-logo="" group-title="► Belgesel",Relax ✦ Okyanus 1
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411692.ts
+#EXTINF:-1 tvg-id="" tvg-name="Relax ✦ Okyanus 2" tvg-logo="" group-title="► Belgesel",Relax ✦ Okyanus 2
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411693.ts
+#EXTINF:-1 tvg-id="" tvg-name="Relax ✦ Okyanus 4" tvg-logo="" group-title="► Belgesel",Relax ✦ Okyanus 4
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411694.ts
+#EXTINF:-1 tvg-id="" tvg-name="Relax ✦ World 1" tvg-logo="" group-title="► Belgesel",Relax ✦ World 1
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411695.ts
+#EXTINF:-1 tvg-id="" tvg-name="Relax ✦ World 2" tvg-logo="" group-title="► Belgesel",Relax ✦ World 2
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411696.ts
+#EXTINF:-1 tvg-id="" tvg-name="Relax ✦ World 3" tvg-logo="" group-title="► Belgesel",Relax ✦ World 3
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411697.ts
+#EXTINF:-1 tvg-id="" tvg-name="Relax ✦ World 4" tvg-logo="" group-title="► Belgesel",Relax ✦ World 4
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411698.ts
+#EXTINF:-1 tvg-id="" tvg-name="Relax ✦ World 5" tvg-logo="" group-title="► Belgesel",Relax ✦ World 5
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411699.ts
+#EXTINF:-1 tvg-id="" tvg-name="Relax ✦ World 6" tvg-logo="" group-title="► Belgesel",Relax ✦ World 6
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411700.ts
+#EXTINF:-1 tvg-id="" tvg-name="Relax ✦ World 7" tvg-logo="" group-title="► Belgesel",Relax ✦ World 7
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411701.ts
+#EXTINF:-1 tvg-id="" tvg-name="Relax ✦ World 8" tvg-logo="" group-title="► Belgesel",Relax ✦ World 8
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411702.ts
+#EXTINF:-1 tvg-id="" tvg-name="Relax ✦ World 9" tvg-logo="" group-title="► Belgesel",Relax ✦ World 9
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411703.ts
+#EXTINF:-1 tvg-id="" tvg-name="Relax ✦ World 10" tvg-logo="" group-title="► Belgesel",Relax ✦ World 10
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411704.ts
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX ✦ ISTANBUL MUHAFIZLARI HD" tvg-logo="" group-title="► Cocuk",FILMBOX ✦ ISTANBUL MUHAFIZLARI HD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411966.ts
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX ✦ KUCUK KAMYON LEO HD" tvg-logo="" group-title="► Cocuk",FILMBOX ✦ KUCUK KAMYON LEO HD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411967.ts
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX ✦ LIMON ILE ZEYTIN HD" tvg-logo="" group-title="► Cocuk",FILMBOX ✦ LIMON ILE ZEYTIN HD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411968.ts
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX ✦ PJMASKS HD" tvg-logo="" group-title="► Cocuk",FILMBOX ✦ PJMASKS HD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411969.ts
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX ✦ KUKULI HD" tvg-logo="" group-title="► Cocuk",FILMBOX ✦ KUKULI HD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411970.ts
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX ✦ OddBods HD" tvg-logo="" group-title="► Cocuk",FILMBOX ✦ OddBods HD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411971.ts
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX ✦ ROAD RUNNER HD" tvg-logo="" group-title="► Cocuk",FILMBOX ✦ ROAD RUNNER HD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411972.ts
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX ✦ SIRINLER HD" tvg-logo="" group-title="► Cocuk",FILMBOX ✦ SIRINLER HD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411973.ts
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX ✦ MASA ILE KOCA AYI HD" tvg-logo="" group-title="► Cocuk",FILMBOX ✦ MASA ILE KOCA AYI HD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411974.ts
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX ✦ PAW PATROL HD" tvg-logo="" group-title="► Cocuk",FILMBOX ✦ PAW PATROL HD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411975.ts
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX ✦ AY AY AYICIKLAR HD" tvg-logo="" group-title="► Cocuk",FILMBOX ✦ AY AY AYICIKLAR HD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411976.ts
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX ✦ BOOBA HD" tvg-logo="" group-title="► Cocuk",FILMBOX ✦ BOOBA HD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411977.ts
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX ✦ KRAL SAKIR HD" tvg-logo="" group-title="► Cocuk",FILMBOX ✦ KRAL SAKIR HD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411978.ts
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX ✦ PEPE HD" tvg-logo="" group-title="► Cocuk",FILMBOX ✦ PEPE HD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411979.ts
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX ✦ SEVIMLI DOSTLAR HD" tvg-logo="" group-title="► Cocuk",FILMBOX ✦ SEVIMLI DOSTLAR HD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411980.ts
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX ✦ CRY BABIES HD" tvg-logo="" group-title="► Cocuk",FILMBOX ✦ CRY BABIES HD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411981.ts
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX ✦ TOM & JERRY HD" tvg-logo="" group-title="► Cocuk",FILMBOX ✦ TOM & JERRY HD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411982.ts
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX ✦ NILOYA HD" tvg-logo="" group-title="► Cocuk",FILMBOX ✦ NILOYA HD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411983.ts
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX ✦ CAILLOU HD" tvg-logo="" group-title="► Cocuk",FILMBOX ✦ CAILLOU HD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411984.ts
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX ✦ ZAROK TV HD" tvg-logo="" group-title="► Cocuk",FILMBOX ✦ ZAROK TV HD
+http://4.438069.xyz:8080/live/salihoglu@61/14012023/411985.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ada (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9hJfOSwmz1fS7zXh5RbZTF8BIYb.jpg" group-title="TR|FİLM► Yesilcam HD",Ada (1988)
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/347465.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sen Aşıksın Arkadaş (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nI9PAiZSWNo5io0gbyOnAi8cxEx.jpg" group-title="TR|FİLM► Yesilcam HD",Sen Aşıksın Arkadaş (1988)
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/347466.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bizim Aile (1975)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vrA0eZW4sgo4OSCBoSUsh6HVMst.jpg" group-title="TR|FİLM► Yesilcam HD",Bizim Aile (1975)
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/347467.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Çiçek Abbas (1982)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6DQ6ukw6muMRhd7Gs0vzwrxCfAY.jpg" group-title="TR|FİLM► Yesilcam HD",Çiçek Abbas (1982)
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/347468.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Çıplak Vatandaş (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ueY2rbu80MhbK1IJzxWJWhZrmYT.jpg" group-title="TR|FİLM► Yesilcam HD",Çıplak Vatandaş (1985)
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/347469.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Çöpçüler Kralı (1977)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fjmT1EEBBkUSZ9CwZ13UCVzPKdL.jpg" group-title="TR|FİLM► Yesilcam HD",Çöpçüler Kralı (1977)
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/347470.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dert Bende (1973)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pkatu2LuTHg0Q4kzMIxmtdAh8Ib.jpg" group-title="TR|FİLM► Yesilcam HD",Dert Bende (1973)
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/347471.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Firar (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ntV2VFCaW6UWfnVRmQsQkWAi7ni.jpg" group-title="TR|FİLM► Yesilcam HD",Firar (1984)
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/347472.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gülen Gözler (1977)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p9rr1TO9soC5VWCUAoSMAbP0CF6.jpg" group-title="TR|FİLM► Yesilcam HD",Gülen Gözler (1977)
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/347473.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gülşah (1975)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xinso1rSuzfPBfdGaHkS5RrxiUV.jpg" group-title="TR|FİLM► Yesilcam HD",Gülşah (1975)
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/347474.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hababam Sınıfı (1975)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n2TAg2MsC7jnDAjxRMDY7pNOOT4.jpg" group-title="TR|FİLM► Yesilcam HD",Hababam Sınıfı (1975)
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/347475.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hababam Sınıfı Uyanıyor (1976)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qiy8MEB2idHMz4hk2OrEurzgKQN.jpg" group-title="TR|FİLM► Yesilcam HD",Hababam Sınıfı Uyanıyor (1976)
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/347476.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haram (1983)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mhYMush8SgYR5f9Vd3Qx8ykITsx.jpg" group-title="TR|FİLM► Yesilcam HD",Haram (1983)
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/347477.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kibar Feyzo (1978)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ic0aUPC6UkozWvXF07WFE7GqBGs.jpg" group-title="TR|FİLM► Yesilcam HD",Kibar Feyzo (1978)
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/347478.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Korkusuz Korkak (1979)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tSop4XF6p36sUo90rjB4LuRtP4S.jpg" group-title="TR|FİLM► Yesilcam HD",Korkusuz Korkak (1979)
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/347479.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Köyden Indim Sehire (1974)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b9QunicSdK4tLFrYu0kJrJSYZho.jpg" group-title="TR|FİLM► Yesilcam HD",Köyden Indim Sehire (1974)
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/347480.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mavi Boncuk (1974)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rOcn9tkIcm3KmnhbVlxPq8JoUO7.jpg" group-title="TR|FİLM► Yesilcam HD",Mavi Boncuk (1974)
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/347481.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Neşeli Günler (1978)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k4ITmv37BTDYqIe6H3Kh1epBVi9.jpg" group-title="TR|FİLM► Yesilcam HD",Neşeli Günler (1978)
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/347482.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Oh Olsun (1973)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ENpxS8c3YhMmLLY4kJ8TfmnMYe.jpg" group-title="TR|FİLM► Yesilcam HD",Oh Olsun (1973)
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/347483.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Şaban Oğlu Şaban (1977)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sqbAPSftoXd9z5llk1oKsvzyGBv.jpg" group-title="TR|FİLM► Yesilcam HD",Şaban Oğlu Şaban (1977)
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/347484.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Salako (1974)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wm8dgHK2bz0NtzdGrSl8Fb2RBwC.jpg" group-title="TR|FİLM► Yesilcam HD",Salako (1974)
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/347485.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Şekerpare (1983)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zYMh6WRweoXH2l5MESnS02f7nts.jpg" group-title="TR|FİLM► Yesilcam HD",Şekerpare (1983)
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/347486.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Şoför Nebahat (1970)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7O8rU81kcKIjAHUne5pWc5Mg7Od.jpg" group-title="TR|FİLM► Yesilcam HD",Şoför Nebahat (1970)
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/347487.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Süt Kardeşler (1976)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Aqp44yPqqFR4XKkoOCC0O1WvlAl.jpg" group-title="TR|FİLM► Yesilcam HD",Süt Kardeşler (1976)
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/347488.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tokatçı (1983)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oVSiyWkgpWvR92dXQwL9dLXBIcK.jpg" group-title="TR|FİLM► Yesilcam HD",Tokatçı (1983)
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/347489.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Yaralı Kalp (1969)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xtRm56i9XanRNOlPmRy5qRpSAy7.jpg" group-title="TR|FİLM► Yesilcam HD",Yaralı Kalp (1969)
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/347490.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Züğürt Ağa (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kM1dluG8238aqpeEYCJHnq7LhpA.jpg" group-title="TR|FİLM► Yesilcam HD",Züğürt Ağa (1985)
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/347491.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Malkoçoğlu: Ölüm Fedaileri (1972)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mqf5ezKGS96Rw7vA3CfBV3QSWIm.jpg" group-title="TR|FİLM► Yesilcam HD",Malkoçoğlu: Ölüm Fedaileri (1972)
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/347492.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Milyarder (1986)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qd0xzoxWhAhzwsm02Xr7Kyxlgb.jpg" group-title="TR|FİLM► Yesilcam HD",Milyarder (1986)
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/347493.mp4
+#EXTINF:-1 tvg-id="" tvg-name="[2026] Yasemin Sakallıoğlu: Doğru Koca Nasıl Seçilir?" tvg-logo="https://image.tmdb.org/t/p/original/bBlQDBNUdS87ujsmqYmgSo9mduH.jpg" group-title="TR|FİLM► 2026 Yerli",[2026] Yasemin Sakallıoğlu: Doğru Koca Nasıl Seçilir?
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/412239.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Moriah Wilson'ın Trajik ve Gerçek Hikayesi (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5VdcUIbJ9tBq7mpGB5gfZrY0IQ1.jpg" group-title="TR|FİLM► Yeni Yüklenenler",Moriah Wilson'ın Trajik ve Gerçek Hikayesi (2026)
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/443161.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Çatıda Biri Var (2025)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sxg5WEcVxLZfI0Pe3U5KvFn6dR0.jpg" group-title="TR|FİLM► Yeni Yüklenenler",Çatıda Biri Var (2025)
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/443337.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cumhuriyet'in Kartalları (2025)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nuNOtBdqd4HvWsMcj0wgqm178oN.jpg" group-title="TR|FİLM► Yeni Yüklenenler",Cumhuriyet'in Kartalları (2025)
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/443338.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Emancipation (2022) ᵀᴿ ᴰᵁᴮᴸᴬᴶ" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/s9sUK1vAaOcxJfKzNTszrNkPhkH.jpg" group-title="TR|FİLM► Yeni Yüklenenler",Emancipation (2022) ᵀᴿ ᴰᵁᴮᴸᴬᴶ
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/443339.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fingernails (2023) ᵀᴿ ᴰᵁᴮᴸᴬᴶ" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/q04g3un61aeBoheQEso7enM28AF.jpg" group-title="TR|FİLM► Yeni Yüklenenler",Fingernails (2023) ᵀᴿ ᴰᵁᴮᴸᴬᴶ
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/443340.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gölge Avı (2025)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/o25Tk1FYQi2BLk0OEAvx2h69QvB.jpg" group-title="TR|FİLM► Yeni Yüklenenler",Gölge Avı (2025)
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/443341.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Raymond & Ray (2022) ᵀᴿ ᴰᵁᴮᴸᴬᴶ" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fdKZmSQHD17JjGUYkluhpttgJRi.jpg" group-title="TR|FİLM► Yeni Yüklenenler",Raymond & Ray (2022) ᵀᴿ ᴰᵁᴮᴸᴬᴶ
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/443342.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Banker (2020) ᵀᴿ ᴰᵁᴮᴸᴬᴶ" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/biXzsw22U6vSd0XktmZwAOc4uik.jpg" group-title="TR|FİLM► Yeni Yüklenenler",The Banker (2020) ᵀᴿ ᴰᵁᴮᴸᴬᴶ
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/443343.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Instigators (2024) ᵀᴿ ᴰᵁᴮᴸᴬᴶ" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dnYWsIFDmygCjNg65rY3uBymx81.jpg" group-title="TR|FİLM► Yeni Yüklenenler",The Instigators (2024) ᵀᴿ ᴰᵁᴮᴸᴬᴶ
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/443344.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Zemheri (2025)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5DcrN62sGAiRJxt8rXSRlSRLwIE.jpg" group-title="TR|FİLM► Yeni Yüklenenler",Zemheri (2025)
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/443345.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gülizar (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uk5SyStl0GcRbYzYOdGiMP2f6En.jpg" group-title="TR|FİLM► Yeni Yüklenenler",Gülizar (2024)
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/443488.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kalpten Söylenen Bir Şarkı (2025)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fuXYoPlbseUFGdvXD2UHKolYphZ.jpg" group-title="TR|FİLM► Yeni Yüklenenler",Kalpten Söylenen Bir Şarkı (2025)
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/443489.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Beanie Bubble (2023) ᵀᴿ ᴰᵁᴮᴸᴬᴶ" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9YDW8dCrQyRpppK5985hKY1Mc8X.jpg" group-title="TR|FİLM► Yeni Yüklenenler",The Beanie Bubble (2023) ᵀᴿ ᴰᵁᴮᴸᴬᴶ
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/443490.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Koruyucu (2012)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1yiZDJ28FQ08kpMRXdAPCdbajPL.jpg" group-title="TR|FİLM► Yeni Yüklenenler",Koruyucu (2012)
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/443626.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tanrı'nın Kitabı (2010)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iIb4R7muTEbEYyO4rBgt6tkouut.jpg" group-title="TR|FİLM► Yeni Yüklenenler",Tanrı'nın Kitabı (2010)
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/443627.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adalet 2 (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xNcm0kmMOmE5lxRiDaA6bmx4unH.jpg" group-title="TR|FİLM► Yeni Yüklenenler",Adalet 2 (2018)
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/443628.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Genç Werther’in Acıları (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/531mYSPKTgWi0l3kXDy4mA5z4wG.jpg" group-title="TR|FİLM► Yeni Yüklenenler",Genç Werther’in Acıları (2024)
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/443697.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Güvercin Terbiyecisi Hammal (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ozyoVMeqHgXNDG6dC3QbHPUm9HA.jpg" group-title="TR|FİLM► Yeni Yüklenenler",Güvercin Terbiyecisi Hammal (2026)
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/443698.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hamnet (2025) ᵀᴿ ᴰᵁᴮᴸᴬᴶ" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg" group-title="TR|FİLM► Yeni Yüklenenler",Hamnet (2025) ᵀᴿ ᴰᵁᴮᴸᴬᴶ
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/443761.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ani Saldırı (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/adk8weka3O5648g3de4z3y4aE7G.jpg" group-title="TR|FİLM► Yeni Yüklenenler",Ani Saldırı (2026)
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/443762.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ayı Teddy'nin Maceraları (2022)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uqV9OKGUjn7ifZlegAfjzNjGLr4.jpg" group-title="TR|FİLM► Yeni Yüklenenler",Ayı Teddy'nin Maceraları (2022)
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/444338.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bertie Gregory Çitalar ile Yüz Yüze (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pSmSgFb1cnRQep0OzcuKWMYWeqR.jpg" group-title="TR|FİLM► Yeni Yüklenenler",Bertie Gregory Çitalar ile Yüz Yüze (2026)
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/444340.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Le Roi Soleil (2025) ᵀᴿ ᴰᵁᴮᴸᴬᴶ" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9wQYbRj6by3oclSQR64nYVOw54Q.jpg" group-title="TR|FİLM► Yeni Yüklenenler",Le Roi Soleil (2025) ᵀᴿ ᴰᵁᴮᴸᴬᴶ
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/444342.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Methgator'a Saldırı (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/td0L3VZvBFPYb6hZ3WTbq0VD9q2.jpg" group-title="TR|FİLM► Yeni Yüklenenler",Methgator'a Saldırı (2024)
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/444343.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Toplar Havaya (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xwvJ3WzdJ1OCuDoY8LAxBUlQyig.jpg" group-title="TR|FİLM► Yeni Yüklenenler",Toplar Havaya (2026)
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/444428.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Şeytan Üçgeni (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/j5ErORq2j7yzr2vNZ7GFXTrEKPm.jpg" group-title="TR|FİLM► Yeni Yüklenenler",Şeytan Üçgeni (2021)
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/444429.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Strong Fathers, Strong Daughters (2022) ᵀᴿ ᴰᵁᴮᴸᴬᴶ" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/w94QQH0Cf13YCPWctm8NJZtbwBE.jpg" group-title="TR|FİLM► Yeni Yüklenenler",Strong Fathers, Strong Daughters (2022) ᵀᴿ ᴰᵁᴮᴸᴬᴶ
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/444430.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ziyaretçiler: Bölüm 2 (2025)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hGPTP0n7B5bu2gy2LC7f81DiKI5.jpg" group-title="TR|FİLM► Yeni Yüklenenler",Ziyaretçiler: Bölüm 2 (2025)
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/444431.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ekmek Kızartma Makinesi (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cbYyWHc1dL1bfwEJbaMYDYKgWG2.jpg" group-title="TR|FİLM► Yeni Yüklenenler",Ekmek Kızartma Makinesi (2026)
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/444475.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Yan Yana (2025)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hykA5yq9tHCKR7WENSgavrNdFeS.jpg" group-title="TR|FİLM► Yeni Yüklenenler",Yan Yana (2025)
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/444491.mp4
+#EXTINF:-1 tvg-id="" tvg-name="180 (2026) ᵀᴿ ᴰᵁᴮᴸᴬᴶ" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9ISjrhA38HpSSGtfiCk8lpziC3K.jpg" group-title="TR|FİLM► Yeni Yüklenenler",180 (2026) ᵀᴿ ᴰᵁᴮᴸᴬᴶ
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/444492.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Island of Lost Girls (2024) ᵀᴿ ᴰᵁᴮᴸᴬᴶ" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eteV3jMCCXKuUSl4rgjATzu4GuO.jpg" group-title="TR|FİLM► Yeni Yüklenenler",The Island of Lost Girls (2024) ᵀᴿ ᴰᵁᴮᴸᴬᴶ
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/444494.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Oda Arkadaşları (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eW1s6omXIfVkTlmKVe9y9Dwwt4u.jpg" group-title="TR|FİLM► Yeni Yüklenenler",Oda Arkadaşları (2026)
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/444495.mp4
+#EXTINF:-1 tvg-id="" tvg-name="İntikam (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ggJGx8fwwy21gEIXYusIlHcUn8z.jpg" group-title="TR|FİLM► Yeni Yüklenenler",İntikam (2026)
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/444496.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bu İşin Şakası Yok (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3SZuy7WyxKZJj25YvSBSG8rbkKM.jpg" group-title="TR|FİLM► Yeni Yüklenenler",Bu İşin Şakası Yok (2026)
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/444658.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fallen Angels Murder Club: Friends to Die For (2022) ᵀᴿ ᴰᵁᴮᴸᴬᴶ" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3v8qDxeka5cofkRW0KBzsAV3DDm.jpg" group-title="TR|FİLM► Yeni Yüklenenler",Fallen Angels Murder Club: Friends to Die For (2022) ᵀᴿ ᴰᵁᴮᴸᴬᴶ
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/444659.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fallen Angels Murder Club: Heroes and Felons (2022) ᵀᴿ ᴰᵁᴮᴸᴬᴶ" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xgCQng0JSQAJcZX6kM2ILiqWTj5.jpg" group-title="TR|FİLM► Yeni Yüklenenler",Fallen Angels Murder Club: Heroes and Felons (2022) ᵀᴿ ᴰᵁᴮᴸᴬᴶ
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/444660.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mutluluk (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/euzEDNHYg5qYhdp0Z1PUDifZIT1.jpg" group-title="TR|FİLM► Yeni Yüklenenler",Mutluluk (2021)
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/444661.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Senden Geriye Kalan (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mkTFRRZ6RHTU2tWcFPIjYxwW2vq.jpg" group-title="TR|FİLM► Yeni Yüklenenler",Senden Geriye Kalan (2026)
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/444662.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sijjin (2023) ᵀᴿ ᴰᵁᴮᴸᴬᴶ" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6lLfy2AlvFkmixgLEyAxPAyjVfn.jpg" group-title="TR|FİLM► Yeni Yüklenenler",Sijjin (2023) ᵀᴿ ᴰᵁᴮᴸᴬᴶ
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/444663.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Apex (2026) ᵀᴿ ᴰᵁᴮᴸᴬᴶ" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5TGSFX6dxYfM2balJrFoSVB42Nv.jpg" group-title="TR|FİLM► Yeni Yüklenenler",Apex (2026) ᵀᴿ ᴰᵁᴮᴸᴬᴶ
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/444847.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dating the Delaneys (2022) ᵀᴿ ᴰᵁᴮᴸᴬᴶ" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nVr5qI9eq9fT687clOPn9bBvbXa.jpg" group-title="TR|FİLM► Yeni Yüklenenler",Dating the Delaneys (2022) ᵀᴿ ᴰᵁᴮᴸᴬᴶ
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/444848.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Suncoast (2024) ᵀᴿ ᴰᵁᴮᴸᴬᴶ" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nmPLUp5lVMiGomkN3db1WPeNrz3.jpg" group-title="TR|FİLM► Yeni Yüklenenler",Suncoast (2024) ᵀᴿ ᴰᵁᴮᴸᴬᴶ
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/444849.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ballerina (2025) ᵀᴿ ᴰᵁᴮᴸᴬᴶ" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2VUmvqsHb6cEtdfscEA6fqqVzLg.jpg" group-title="TR|FİLM► Yeni Yüklenenler",Ballerina (2025) ᵀᴿ ᴰᵁᴮᴸᴬᴶ
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/444895.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dirsek (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/o81ILfqaCAgAozBlTCx7U0ZdMLg.jpg" group-title="TR|FİLM► Yeni Yüklenenler",Dirsek (2024)
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/444896.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Teknede Dehşet (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mQMkKY35mgo91r7op5JsVcjbYmP.jpg" group-title="TR|FİLM► Yeni Yüklenenler",Teknede Dehşet (2023)
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/444897.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Temizlik Ekibi (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oinz9e5xvcn0hDQZyWUGPJ0oVye.jpg" group-title="TR|FİLM► Yeni Yüklenenler",Temizlik Ekibi (2024)
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/444898.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ali'nin Tabiatı (2021)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/74wowNhOPbRlzMC9jHh0Zrrz1cn.jpg" group-title="TR|FİLM► Yeni Yüklenenler",Ali'nin Tabiatı (2021)
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/445039.mp4
+#EXTINF:-1 tvg-id="" tvg-name="45-25 #KusursuzCinayet (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zCbmEuo9S9v8L5JLhcI8CdpldB9.jpg" group-title="TR|FİLM► Yeni Yüklenenler",45-25 #KusursuzCinayet (2019)
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/445040.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Anons (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8Q5wO7Xetg27xOppCc21KhAw5ni.jpg" group-title="TR|FİLM► Yeni Yüklenenler",Anons (2017)
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/445041.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Buen Camino (2025) ᵀᴿ ᴰᵁᴮᴸᴬᴶ" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4buulRVfRJcqgkR3AF6ln23TqR6.jpg" group-title="TR|FİLM► Yeni Yüklenenler",Buen Camino (2025) ᵀᴿ ᴰᵁᴮᴸᴬᴶ
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/445115.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Damat (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9dZYYIvCPAJbZ0Y0cz0diLds97N.jpg" group-title="TR|FİLM► Yeni Yüklenenler",Damat (2026)
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/445116.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fildişi Kral (2025)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nZyf8ewIWvtVz5cCdtX30I4mwwD.jpg" group-title="TR|FİLM► Yeni Yüklenenler",Fildişi Kral (2025)
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/445117.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Love in Winterland (2020) ᵀᴿ ᴰᵁᴮᴸᴬᴶ" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jCyQdA1rZBUrCMj81tZy6bak9G9.jpg" group-title="TR|FİLM► Yeni Yüklenenler",Love in Winterland (2020) ᵀᴿ ᴰᵁᴮᴸᴬᴶ
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/445118.mp4
+#EXTINF:-1 tvg-id="" tvg-name="My Dearest Señorita (2026) ᵀᴿ ᴰᵁᴮᴸᴬᴶ" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wPMb6ECpefJXtXRV0C5Qx45HprA.jpg" group-title="TR|FİLM► Yeni Yüklenenler",My Dearest Señorita (2026) ᵀᴿ ᴰᵁᴮᴸᴬᴶ
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/445119.mp4
+#EXTINF:-1 tvg-id="" tvg-name="No One Will Save You (2023) ᵀᴿ ᴰᵁᴮᴸᴬᴶ" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ehGIDAMaYy6Eg0o8ga0oqflDjqW.jpg" group-title="TR|FİLM► Yeni Yüklenenler",No One Will Save You (2023) ᵀᴿ ᴰᵁᴮᴸᴬᴶ
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/445120.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Yerime Geç (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qOGVmgnIO71nIffkGmGtGmhHLdN.jpg" group-title="TR|FİLM► Yeni Yüklenenler",Yerime Geç (2026)
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/445121.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uğultulu Tepeler (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tBtungYBSGJZylDnXU6xyqySrex.jpg" group-title="TR|FİLM► Yeni Yüklenenler",Uğultulu Tepeler (2026)
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/445122.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monster High: Acayip Dönüşüm (2014)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vKHXK7fVSpp5gDmcN4mhDG0yJn2.jpg" group-title="TR|FİLM► Yeni Yüklenenler",Monster High: Acayip Dönüşüm (2014)
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/445131.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Yaren Leylek (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6QA7GYzwbraD5oYQcrlNRrEW5Qm.jpg" group-title="TR|FİLM► Yeni Yüklenenler",Yaren Leylek (2024)
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/445132.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amrum (2025)) ᵀᴿ ᴰᵁᴮᴸᴬᴶ" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/veKogeWV5xVrg41HrLCspiwHNDy.jpg" group-title="TR|FİLM► Yeni Yüklenenler",Amrum (2025)) ᵀᴿ ᴰᵁᴮᴸᴬᴶ
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/445141.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Eve Dönüş (2025)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vyezjSvSdLO0bvr6jSNuFi6yuiw.jpg" group-title="TR|FİLM► Yeni Yüklenenler",Eve Dönüş (2025)
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/445142.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Giant (2026) ᵀᴿ ᴰᵁᴮᴸᴬᴶ" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1KKmUdFulYDVSV31nQt9LVm3Oue.jpg" group-title="TR|FİLM► Yeni Yüklenenler",Giant (2026) ᵀᴿ ᴰᵁᴮᴸᴬᴶ
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/445143.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ölü Elmastaki Yansıma (2025)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1Zr71SMoBV8NmVvpKA323B1In29.jpg" group-title="TR|FİLM► Yeni Yüklenenler",Ölü Elmastaki Yansıma (2025)
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/445146.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tavus Kuşu (2025)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aljXRgixC3JOatcFbtdULduVhPU.jpg" group-title="TR|FİLM► Yeni Yüklenenler",Tavus Kuşu (2025)
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/445147.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Calm Beyond (2020) ᵀᴿ ᴰᵁᴮᴸᴬᴶ" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fp4bHinsgOBeYokMYzIrUNjFYL0.jpg" group-title="TR|FİLM► Yeni Yüklenenler",The Calm Beyond (2020) ᵀᴿ ᴰᵁᴮᴸᴬᴶ
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/445148.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bad Company (1972) ᵀᴿ ᴰᵁᴮᴸᴬᴶ" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8UpEdkJmdjwQb6OJJyPRSMf80v6.jpg" group-title="TR|FİLM► Yeni Yüklenenler",Bad Company (1972) ᵀᴿ ᴰᵁᴮᴸᴬᴶ
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/445150.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carrot Cake Murder: A Hannah Swensen Mystery (2023) ᵀᴿ ᴰᵁᴮᴸᴬᴶ" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yLYAq5d6pk8mXKzigfwcBn543lf.jpg" group-title="TR|FİLM► Yeni Yüklenenler",Carrot Cake Murder: A Hannah Swensen Mystery (2023) ᵀᴿ ᴰᵁᴮᴸᴬᴶ
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/445151.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kara Şimşek 2000 (1991)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9hrGmhIdDvVkk9i26lK9QsZNurw.jpg" group-title="TR|FİLM► Yeni Yüklenenler",Kara Şimşek 2000 (1991)
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/445152.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Constantine (2005)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vPYgvd2MwHlxTamAOjwVQp4qs1W.jpg" group-title="TR|FİLM► Yeni Yüklenenler",Constantine (2005)
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/445153.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Azize (2020)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/o9UkgVMTFLRkjmcfnihQPyQhOmZ.jpg" group-title="TR|FİLM► Yeni Yüklenenler",Azize (2020)
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/445213.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Switched Before Birth (2021) ᵀᴿ ᴰᵁᴮᴸᴬᴶ" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3wVmeuMrwcrbxS4jt7JuWWc53jz.jpg" group-title="TR|FİLM► Yeni Yüklenenler",Switched Before Birth (2021) ᵀᴿ ᴰᵁᴮᴸᴬᴶ
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/445214.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uncharted (2022) ᵀᴿ ᴰᵁᴮᴸᴬᴶ" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xseSYEjz5btrQIyJF4savdlz6Fl.jpg" group-title="TR|FİLM► Yeni Yüklenenler",Uncharted (2022) ᵀᴿ ᴰᵁᴮᴸᴬᴶ
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/445216.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sarah'ın Petrolü (2025)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/Av1CK61z33v2OBFLD1yF5rdRxQ1.jpg" group-title="TR|FİLM► Yeni Yüklenenler",Sarah'ın Petrolü (2025)
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/445232.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sevgili Suikastçım (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/b1VNnA0ewb6F0hccCpPpXD8c8oT.jpg" group-title="TR|FİLM► Yeni Yüklenenler",Sevgili Suikastçım (2026)
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/445266.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Çocuk ve Balıkçıl (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/h5tSkhc8aDnW3g5Yj8wkNAthehc.jpg" group-title="TR|FİLM► Yeni Yüklenenler",Çocuk ve Balıkçıl (2023)
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/445268.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Doğuştan Kanunsuz (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jydevt6svmYtccvMbbfTyuuIExH.jpg" group-title="TR|FİLM► Yeni Yüklenenler",Doğuştan Kanunsuz (2023)
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/445269.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bekarlara Yer Yok (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3BsaBkOalMIRMwNE6OxFUGqrnEB.jpg" group-title="TR|FİLM► Yeni Yüklenenler",Bekarlara Yer Yok (2026)
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/445294.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Corontina-19 (2022)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hQ1BHwoPY70dAl4bcqe9JfLrOnw.jpg" group-title="TR|FİLM► Yeni Yüklenenler",Corontina-19 (2022)
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/445295.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Olağanüstü Akıllı Yaratıklar (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9HcEqn3D4J6b2Z0jK54id9nA0fr.jpg" group-title="TR|FİLM► Yeni Yüklenenler",Olağanüstü Akıllı Yaratıklar (2026)
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/445296.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hoplayanlar (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eYjLQ3ULyr3nWj218Cu7YYU0Z8x.jpg" group-title="TR|FİLM► Yeni Yüklenenler",Hoplayanlar (2026)
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/445307.mp4
+#EXTINF:-1 tvg-id="" tvg-name="İyi Çocuk (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/x0wD4Qxe0wulV0bxarsQ05PqDNF.jpg" group-title="TR|FİLM► Yeni Yüklenenler",İyi Çocuk (2026)
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/445308.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gary (2026) ᵀᴿ ᴰᵁᴮᴸᴬᴶ" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qOOhoxvUDe7lWpPEeh0gFBYpjFe.jpg" group-title="TR|FİLM► Yeni Yüklenenler",Gary (2026) ᵀᴿ ᴰᵁᴮᴸᴬᴶ
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/445347.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kurtuluş Projesi (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yihdXomYb5kTeSivtFndMy5iDmf.jpg" group-title="TR|FİLM► Yeni Yüklenenler",Kurtuluş Projesi (2026)
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/445348.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gary (2026) ᵀᴿ ᴰᵁᴮᴸᴬᴶ" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sG5NI6TMNR9ftOdTIXmG0hrBYSY.jpg" group-title="TR|FİLM► Yeni Yüklenenler",Gary (2026) ᵀᴿ ᴰᵁᴮᴸᴬᴶ
+http://4.438069.xyz:8080/movie/salihoglu@61/14012023/445349.mp4
