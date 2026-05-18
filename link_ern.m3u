@@ -1,0 +1,637 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="----- (tr) Ulusal Kanallar----- HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/TURKIYE_LOGO_SD.png" group-title="TR | ULUSAL ",----- (tr) Ulusal Kanallar----- HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/1420.ts
+#EXTINF:-1 tvg-id="Dubai.ae" tvg-name="Tr: TRT 4K" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/trt4k.png" group-title="TR | ULUSAL ",Tr: TRT 4K
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/90653.ts
+#EXTINF:-1 tvg-id="TRT.1.tr" tvg-name="Tr: TRT 1" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/trt1_250x150.png" group-title="TR | ULUSAL ",Tr: TRT 1
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/7045.ts
+#EXTINF:-1 tvg-id="TRT.1.tr" tvg-name="Tr: TRT 1 HD" tvg-logo="https://imagizer.imageshack.com/img921/2843/1kfsNe.png" group-title="TR | ULUSAL ",Tr: TRT 1 HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/5926.ts
+#EXTINF:-1 tvg-id="TRT.1.tr" tvg-name="Tr: TRT 1 FHD" tvg-logo="https://imagizer.imageshack.com/img921/2843/1kfsNe.png" group-title="TR | ULUSAL ",Tr: TRT 1 FHD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/73998.ts
+#EXTINF:-1 tvg-id="ATV.tr" tvg-name="Tr: ATV HD" tvg-logo="https://imagizer.imageshack.com/img923/1041/hH0fu1.png" group-title="TR | ULUSAL ",Tr: ATV HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/7040.ts
+#EXTINF:-1 tvg-id="KABLO.INFO.tr" tvg-name="Tr: ATV HD" tvg-logo="https://imagizer.imageshack.com/img921/2984/KveE8O.png" group-title="TR | ULUSAL ",Tr: ATV HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/73996.ts
+#EXTINF:-1 tvg-id="ATV.tr" tvg-name="Tr: ATV FHD" tvg-logo="https://imagizer.imageshack.com/img923/1041/hH0fu1.png" group-title="TR | ULUSAL ",Tr: ATV FHD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/5920.ts
+#EXTINF:-1 tvg-id="ATV Avrupa TR" tvg-name="Tr: ATV Avrupa HD" tvg-logo="https://imagizer.imageshack.com/img924/5350/AbFeor.png" group-title="TR | ULUSAL ",Tr: ATV Avrupa HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/54872.ts
+#EXTINF:-1 tvg-id="StarTV.tr" tvg-name="Tr: STAR TV HD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/star250x150.png" group-title="TR | ULUSAL ",Tr: STAR TV HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/5788.ts
+#EXTINF:-1 tvg-id="StarTV.tr" tvg-name="Tr: STAR TV HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/STAR_HD.png" group-title="TR | ULUSAL ",Tr: STAR TV HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/73995.ts
+#EXTINF:-1 tvg-id="StarTV.tr" tvg-name="Tr: STAR TV FHD" tvg-logo="https://imagizer.imageshack.com/img921/7949/F5pgHo.png" group-title="TR | ULUSAL ",Tr: STAR TV FHD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/30.ts
+#EXTINF:-1 tvg-id="Eurostar NL" tvg-name="Tr: EURO STAR HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/EURO_STAR_SD.png" group-title="TR | ULUSAL ",Tr: EURO STAR HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/40222.ts
+#EXTINF:-1 tvg-id="KanalD.tr" tvg-name="Tr: Kanal D HD" tvg-logo="https://imagizer.imageshack.com/img922/1529/96iH9l.png" group-title="TR | ULUSAL ",Tr: Kanal D HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/5787.ts
+#EXTINF:-1 tvg-id="KanalD.tr" tvg-name="Tr: Kanal D HD" tvg-logo="https://imagizer.imageshack.com/img922/1529/96iH9l.png" group-title="TR | ULUSAL ",Tr: Kanal D HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/32.ts
+#EXTINF:-1 tvg-id="KanalD.tr" tvg-name="Tr: Kanal D FHD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/KANAL_D_HD.png" group-title="TR | ULUSAL ",Tr: Kanal D FHD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/73994.ts
+#EXTINF:-1 tvg-id="Euro D NL" tvg-name="Tr: EURO D HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/KANAL_D_EURO_SD.png" group-title="TR | ULUSAL ",Tr: EURO D HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/33515.ts
+#EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="Tr: SHOW TV HD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/show_250x150.png" group-title="TR | ULUSAL ",Tr: SHOW TV HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/5919.ts
+#EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="Tr: SHOW TV HD" tvg-logo="https://imagizer.imageshack.com/img924/9503/KfstrF.png" group-title="TR | ULUSAL ",Tr: SHOW TV HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/73997.ts
+#EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="Tr: SHOW TV FHD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/SHOW_HD.png" group-title="TR | ULUSAL ",Tr: SHOW TV FHD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/7041.ts
+#EXTINF:-1 tvg-id="360.tr" tvg-name="Tr: SHOW TURK HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/SHOW_TURK_SD.png" group-title="TR | ULUSAL ",Tr: SHOW TURK HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/44068.ts
+#EXTINF:-1 tvg-id="showmax.tr" tvg-name="Tr: SHOW MAX HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/SHOW_MAX_SD.png" group-title="TR | ULUSAL ",Tr: SHOW MAX HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/44065.ts
+#EXTINF:-1 tvg-id="FoxTurkey.tr" tvg-name="Tr: NOW TV HD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/NOW_Logo250x150.png" group-title="TR | ULUSAL ",Tr: NOW TV HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/7042.ts
+#EXTINF:-1 tvg-id="FoxTurkey.tr" tvg-name="Tr: NOW TV HD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/NOW_Logo250x150.png" group-title="TR | ULUSAL ",Tr: NOW TV HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/73999.ts
+#EXTINF:-1 tvg-id="FoxTurkey.tr" tvg-name="Tr: NOW TV FHD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/NOW_Logo250x150.png" group-title="TR | ULUSAL ",Tr: NOW TV FHD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/5923.ts
+#EXTINF:-1 tvg-id="TV8.tr" tvg-name="Tr: TV 8 HD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/TV8_250x150.png" group-title="TR | ULUSAL ",Tr: TV 8 HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/7046.ts
+#EXTINF:-1 tvg-id="TV8.tr" tvg-name="Tr: TV 8 HD" tvg-logo="https://imagizer.imageshack.com/img922/9568/SD2FwS.png" group-title="TR | ULUSAL ",Tr: TV 8 HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/74001.ts
+#EXTINF:-1 tvg-id="TV8.tr" tvg-name="Tr: TV 8 FHD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/TV8_HD.png" group-title="TR | ULUSAL ",Tr: TV 8 FHD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/5922.ts
+#EXTINF:-1 tvg-id="TV85.tr" tvg-name="Tr: TV 8.5 HD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/250x150-tv8-5.png" group-title="TR | ULUSAL ",Tr: TV 8.5 HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/5927.ts
+#EXTINF:-1 tvg-id="TV85.tr" tvg-name="Tr: TV 8.5 FHD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/TV8-5_SD.png" group-title="TR | ULUSAL ",Tr: TV 8.5 FHD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/90650.ts
+#EXTINF:-1 tvg-id="BeyazTV.tr" tvg-name="Tr: Beyaz TV HD" tvg-logo="https://imagizer.imageshack.com/img921/713/miS1eA.png" group-title="TR | ULUSAL ",Tr: Beyaz TV HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/5924.ts
+#EXTINF:-1 tvg-id="BeyazTV.tr" tvg-name="Tr: Beyaz TV FHD" tvg-logo="https://imagizer.imageshack.com/img924/4282/JfQIHB.png" group-title="TR | ULUSAL ",Tr: Beyaz TV FHD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/74007.ts
+#EXTINF:-1 tvg-id="360.tr" tvg-name="Tr: Tv8 INT HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/TV8_INT_SD.png" group-title="TR | ULUSAL ",Tr: Tv8 INT HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/33512.ts
+#EXTINF:-1 tvg-id="Kanal7.tr" tvg-name="Tr: Kanal 7 HD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/Kanal1_7.png" group-title="TR | ULUSAL ",Tr: Kanal 7 HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/40.ts
+#EXTINF:-1 tvg-id="Kanal7.tr" tvg-name="Tr: Kanal 7 HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/KANAL7_HD.png" group-title="TR | ULUSAL ",Tr: Kanal 7 HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/74006.ts
+#EXTINF:-1 tvg-id="Kanal7.tr" tvg-name="Tr: Kanal 7 FHD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/KANAL7_HD.png" group-title="TR | ULUSAL ",Tr: Kanal 7 FHD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/91930.ts
+#EXTINF:-1 tvg-id="360.tr" tvg-name="Tr: TGRT EU HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/TGRTEU_SD.png" group-title="TR | ULUSAL ",Tr: TGRT EU HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/59190.ts
+#EXTINF:-1 tvg-id="Teve2.tr" tvg-name="Tr: Teve2 HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/TEVE2_HD.png" group-title="TR | ULUSAL ",Tr: Teve2 HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/142.ts
+#EXTINF:-1 tvg-id="360.tr" tvg-name="Tr: Kanal7 Avrupa HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/KANAL7_AVRUPA_SD.png" group-title="TR | ULUSAL ",Tr: Kanal7 Avrupa HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/54919.ts
+#EXTINF:-1 tvg-id="A2TV.tr" tvg-name="Tr: A2 HD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/a2_250x150.png" group-title="TR | ULUSAL ",Tr: A2 HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/5928.ts
+#EXTINF:-1 tvg-id="360.tr" tvg-name="Tr: 360 HD" tvg-logo="https://imagizer.imageshack.com/img923/3913/XpB6lu.png" group-title="TR | ULUSAL ",Tr: 360 HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/5957.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: BI Kanal HD" tvg-logo="https://imagizer.imageshack.com/img924/3991/ijPC3A.png" group-title="TR | ULUSAL ",Tr: BI Kanal HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/448599.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: TYT TURK HD" tvg-logo="https://tytturk.com/upload/tyt-logo.png" group-title="TR | ULUSAL ",Tr: TYT TURK HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/448600.ts
+#EXTINF:-1 tvg-id="" tvg-name="----- (tr) Haber Kanallari----- HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/TURKIYE_LOGO_SD.png" group-title="TR | HABER",----- (tr) Haber Kanallari----- HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/6190.ts
+#EXTINF:-1 tvg-id="TRTHaber.tr" tvg-name="Tr: TRT Haber HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/TRT_HABER_HD.png" group-title="TR | HABER",Tr: TRT Haber HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/28.ts
+#EXTINF:-1 tvg-id="TRTHaber.tr" tvg-name="Tr: TRT Haber FHD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/TRT_HABER_HD.png" group-title="TR | HABER",Tr: TRT Haber FHD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/74014.ts
+#EXTINF:-1 tvg-id="AHaber.tr" tvg-name="Tr: A Haber HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/AHABER_HD.png" group-title="TR | HABER",Tr: A Haber HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/33518.ts
+#EXTINF:-1 tvg-id="AHaber.tr" tvg-name="Tr: A Haber FHD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/AHABER_HD.png" group-title="TR | HABER",Tr: A Haber FHD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/74010.ts
+#EXTINF:-1 tvg-id="Haberturk.tr" tvg-name="Tr: Haberturk HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/HABERTURK_HD.png" group-title="TR | HABER",Tr: Haberturk HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/5960.ts
+#EXTINF:-1 tvg-id="Haberturk.tr" tvg-name="Tr: Haber TURK FHD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/HABERTURK_HD.png" group-title="TR | HABER",Tr: Haber TURK FHD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/74011.ts
+#EXTINF:-1 tvg-id="KABLO.INFO.tr" tvg-name="Tr: CNN TURK HD" tvg-logo="https://imagizer.imageshack.com/img921/3818/OV2fJ5.png" group-title="TR | HABER",Tr: CNN TURK HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/17729.ts
+#EXTINF:-1 tvg-id="KABLO.INFO.tr" tvg-name="Tr: CNN TURK FHD" tvg-logo="https://imagizer.imageshack.com/img921/3818/OV2fJ5.png" group-title="TR | HABER",Tr: CNN TURK FHD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/74009.ts
+#EXTINF:-1 tvg-id="NTV.tr" tvg-name="Tr: NTV HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/NTV_HD.png" group-title="TR | HABER",Tr: NTV HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/24185.ts
+#EXTINF:-1 tvg-id="NTV.tr" tvg-name="Tr: NTV FHD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/NTV_HD.png" group-title="TR | HABER",Tr: NTV FHD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/74008.ts
+#EXTINF:-1 tvg-id="FlashTV.tr" tvg-name="Tr: Flash Haber HD" tvg-logo="https://www.lyngsat.com/logo/tv/ff/flash-haber-tv-tr.png" group-title="TR | HABER",Tr: Flash Haber HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/186899.ts
+#EXTINF:-1 tvg-id="HalkTV.tr" tvg-name="Tr: HALK TV HD" tvg-logo="https://imagizer.imageshack.com/img921/3310/1S3KY1.png" group-title="TR | HABER",Tr: HALK TV HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/188738.ts
+#EXTINF:-1 tvg-id="HalkTV.tr" tvg-name="Tr: HALK TV FHD" tvg-logo="https://imagizer.imageshack.com/img921/3310/1S3KY1.png" group-title="TR | HABER",Tr: HALK TV FHD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/5962.ts
+#EXTINF:-1 tvg-id="KABLO.INFO.tr" tvg-name="Tr: Sozcu TV HD" tvg-logo="https://i.imgur.com/4QiduXs.png" group-title="TR | HABER",Tr: Sozcu TV HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/248124.ts
+#EXTINF:-1 tvg-id="CNNInternationalEurope.us" tvg-name="Tr: CNN Int. HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/07/cnn_int.png" group-title="TR | HABER",Tr: CNN Int. HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/102707.ts
+#EXTINF:-1 tvg-id="TGRTHaber.tr" tvg-name="Tr: TGRT Haber HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/TGRT_HABER_SD.png" group-title="TR | HABER",Tr: TGRT Haber HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/47.ts
+#EXTINF:-1 tvg-id="TV100.tr" tvg-name="Tr: Tv100 HD" tvg-logo="https://imagizer.imageshack.com/img923/9248/D495dR.png" group-title="TR | HABER",Tr: Tv100 HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/8858.ts
+#EXTINF:-1 tvg-id="APara.tr" tvg-name="Tr: A PARA HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/A_PARA_SD.png" group-title="TR | HABER",Tr: A PARA HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/43579.ts
+#EXTINF:-1 tvg-id="a news hd" tvg-name="Tr: A NEWS HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/A_NEWS_HD.png" group-title="TR | HABER",Tr: A NEWS HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/43578.ts
+#EXTINF:-1 tvg-id="UlusalKanal.tr" tvg-name="Tr: Ulusal Kanal HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/ulusal_tv.png" group-title="TR | HABER",Tr: Ulusal Kanal HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/1637.ts
+#EXTINF:-1 tvg-id="TVNet.tr" tvg-name="Tr: TV NET HD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/tvnett___250x150.png" group-title="TR | HABER",Tr: TV NET HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/5965.ts
+#EXTINF:-1 tvg-id="TRTWorld.tr" tvg-name="Tr: TRT World HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/TRT_WORLD_SD.png" group-title="TR | HABER",Tr: TRT World HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/74025.ts
+#EXTINF:-1 tvg-id="Tele1.tr" tvg-name="Tr: TELE 1 HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/TELE1_SD.png" group-title="TR | HABER",Tr: TELE 1 HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/6965.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: BBN TURK HD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/bbn_turk.png" group-title="TR | HABER",Tr: BBN TURK HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/130351.ts
+#EXTINF:-1 tvg-id="360.tr" tvg-name="Tr: 24 HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/KANAL24_HD.png" group-title="TR | HABER",Tr: 24 HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/5961.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: ARTI 1 HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/arti1.png" group-title="TR | HABER",Tr: ARTI 1 HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/100980.ts
+#EXTINF:-1 tvg-id="BloombergHT.tr" tvg-name="Tr: Bloomberg HT HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/BLOOMBERG_HD.png" group-title="TR | HABER",Tr: Bloomberg HT HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/7044.ts
+#EXTINF:-1 tvg-id="360.tr" tvg-name="Tr: BBC World HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/05/1_0_19_587_4_42_1A40000_0_0_0.png" group-title="TR | HABER",Tr: BBC World HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/94804.ts
+#EXTINF:-1 tvg-id="ekotürk tv hd" tvg-name="Tr: EKO TURK HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/EKOTURK_SD.png" group-title="TR | HABER",Tr: EKO TURK HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/44075.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: AKIT TV HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/AKIT_TV_HD.png" group-title="TR | HABER",Tr: AKIT TV HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/1773.ts
+#EXTINF:-1 tvg-id="TGRTHaber.tr" tvg-name="Tr: TGRT Haber FHD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/TGRT_HABER_SD.png" group-title="TR | HABER",Tr: TGRT Haber FHD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/74015.ts
+#EXTINF:-1 tvg-id="HaberGlobal.tr" tvg-name="Tr: Haber Global HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/HABER_GLOBAL_SD.png" group-title="TR | HABER",Tr: Haber Global HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/41453.ts
+#EXTINF:-1 tvg-id="HaberGlobal.tr" tvg-name="Tr: Haber Global FHD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/HABER_GLOBAL_SD.png" group-title="TR | HABER",Tr: Haber Global FHD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/74012.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: Cnbc-e HD" tvg-logo="https://s.cnbce.com/dist/images/logo.png" group-title="TR | HABER",Tr: Cnbc-e HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/313518.ts
+#EXTINF:-1 tvg-id="BloombergHT.tr" tvg-name="Tr: Bloomberg HT FHD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/BLOOMBERG_HD.png" group-title="TR | HABER",Tr: Bloomberg HT FHD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/74018.ts
+#EXTINF:-1 tvg-id="KRT.tr" tvg-name="Tr: KRT HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/KRT_HD.png" group-title="TR | HABER",Tr: KRT HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/44072.ts
+#EXTINF:-1 tvg-id="UlkeTV.tr" tvg-name="Tr: ULKE TV HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/ULKE_TV_HD.png" group-title="TR | HABER",Tr: ULKE TV HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/5956.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: ILKE TV HD" tvg-logo="https://ilketv.com.tr/wp-content/uploads/2024/06/logo.png" group-title="TR | HABER",Tr: ILKE TV HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/355939.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: EKOL TV HD" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/1920/content/n/1w/96071/Thumbnail.png" group-title="TR | HABER",Tr: EKOL TV HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/296568.ts
+#EXTINF:-1 tvg-id="" tvg-name="----- (tr) SPOR Kanallari----- HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/TURKIYE_LOGO_SD.png" group-title="TR | SPOR",----- (tr) SPOR Kanallari----- HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/2714.ts
+#EXTINF:-1 tvg-id="TRTSpor.tr" tvg-name="Tr: TRT SPOR HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/TRT_SPOR_SD.png" group-title="TR | SPOR",Tr: TRT SPOR HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/90648.ts
+#EXTINF:-1 tvg-id="TRTSpor.tr" tvg-name="Tr: TRT SPOR FHD" tvg-logo="https://imagizer.imageshack.com/img922/4548/E7HAW2.png" group-title="TR | SPOR",Tr: TRT SPOR FHD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/29.ts
+#EXTINF:-1 tvg-id="TRTSporYildiz.tr" tvg-name="Tr: TRT SPOR Yildiz HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/05/trtspor2.png" group-title="TR | SPOR",Tr: TRT SPOR Yildiz HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/90649.ts
+#EXTINF:-1 tvg-id="TRTSporYildiz.tr" tvg-name="Tr: TRT SPOR Yildiz FHD" tvg-logo="https://imagizer.imageshack.com/img921/4365/ZFW07j.png" group-title="TR | SPOR",Tr: TRT SPOR Yildiz FHD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/78941.ts
+#EXTINF:-1 tvg-id="ASpor.tr" tvg-name="Tr: A SPOR HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/ASPOR_SD.png" group-title="TR | SPOR",Tr: A SPOR HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/11208.ts
+#EXTINF:-1 tvg-id="ASpor.tr" tvg-name="Tr: A SPOR FHD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/ASPOR_HD.png" group-title="TR | SPOR",Tr: A SPOR FHD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/74021.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: HT SPOR FHD" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/1920/content/u/S4/98405/Thumbnail.png" group-title="TR | SPOR",Tr: HT SPOR FHD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/303649.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: HT SPOR HD" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/1920/content/u/S4/98405/Thumbnail.png" group-title="TR | SPOR",Tr: HT SPOR HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/303648.ts
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="Tr: Eurosport 1 HD" tvg-logo="https://i.ibb.co/BBZ0wD5/66ab7a22866ac318108e1f6d.png" group-title="TR | SPOR",Tr: Eurosport 1 HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/5930.ts
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="Tr: Eurosport 1 FHD" tvg-logo="https://i.ibb.co/BBZ0wD5/66ab7a22866ac318108e1f6d.png" group-title="TR | SPOR",Tr: Eurosport 1 FHD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/170950.ts
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="Tr: Eurosport 2 HD" tvg-logo="https://i.ibb.co/0DPR1yS/66ab7a84866ac318108e1f6f.png" group-title="TR | SPOR",Tr: Eurosport 2 HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/5929.ts
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="Tr: Eurosport 2 FHD" tvg-logo="https://i.ibb.co/0DPR1yS/66ab7a84866ac318108e1f6f.png" group-title="TR | SPOR",Tr: Eurosport 2 FHD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/170951.ts
+#EXTINF:-1 tvg-id="FBTV.tr" tvg-name="Tr: FB TV HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/FB_TV_SD-1.png" group-title="TR | SPOR",Tr: FB TV HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/5935.ts
+#EXTINF:-1 tvg-id="GSTV.tr" tvg-name="Tr: GS TV HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/GS_TV_SD.png" group-title="TR | SPOR",Tr: GS TV HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/5933.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: Fight Network HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/fight_network_picon.png" group-title="TR | SPOR",Tr: Fight Network HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/95664.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: UFC Fight HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/07/ufc.png" group-title="TR | SPOR",Tr: UFC Fight HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/95663.ts
+#EXTINF:-1 tvg-id="FightBox.nl" tvg-name="Tr: Fight BOX HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/05/fightbox.png" group-title="TR | SPOR",Tr: Fight BOX HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/90543.ts
+#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-name="Tr: NBA TV HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/nba_tv_us.png" group-title="TR | SPOR",Tr: NBA TV HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/18093.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: Sports TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sports_tv_tr.png" group-title="TR | SPOR",Tr: Sports TV HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/17846.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: EKOL Sports HD" tvg-logo="https://gbzeottvsc08.tvplus.com.tr:33207/CPS/images/universal/film/logo/202508/20250815/72/1252393287705eb88428_op.png" group-title="TR | SPOR",Tr: EKOL Sports HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/446109.ts
+#EXTINF:-1 tvg-id="TJKTV.tr" tvg-name="Tr: TJK TV HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/tjk_tv.png" group-title="TR | SPOR",Tr: TJK TV HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/1676.ts
+#EXTINF:-1 tvg-id="nbatv.tr" tvg-name="Tr: EDGE Sport HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/edge_sport_picon.png" group-title="TR | SPOR",Tr: EDGE Sport HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/32411.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: AS TV HD" tvg-logo="https://astv.com.tr/wp-content/uploads/2025/10/asx.png" group-title="TR | SPOR",Tr: AS TV HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/505635.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: Sifir TV HD" tvg-logo="https://sifirtv.com/sifir-tv-logo.png" group-title="TR | SPOR",Tr: Sifir TV HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/505632.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: BEIN Sports 1 HD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png" group-title="TR | (VIP) B**N SPORTS ",Tr: BEIN Sports 1 HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/447239.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: BEIN Sports 1 FHD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png" group-title="TR | (VIP) B**N SPORTS ",Tr: BEIN Sports 1 FHD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/447238.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: BEIN Sports 1 FHD (hevc)" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png" group-title="TR | (VIP) B**N SPORTS ",Tr: BEIN Sports 1 FHD (hevc)
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/447237.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: BEIN Sports 2 HD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport2_250x150_2022.png" group-title="TR | (VIP) B**N SPORTS ",Tr: BEIN Sports 2 HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/447241.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: BEIN Sports 2 FHD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport2_250x150_2022.png" group-title="TR | (VIP) B**N SPORTS ",Tr: BEIN Sports 2 FHD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/447240.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: BEIN Sports 3 HD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport3_250x150_2022.png" group-title="TR | (VIP) B**N SPORTS ",Tr: BEIN Sports 3 HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/447243.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: BEIN Sports 3 FHD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport3_250x150_2022.png" group-title="TR | (VIP) B**N SPORTS ",Tr: BEIN Sports 3 FHD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/447242.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: BEIN Sports 4 HD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport4_250x150_2022.png" group-title="TR | (VIP) B**N SPORTS ",Tr: BEIN Sports 4 HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/447245.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: BEIN Sports 4 FHD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport4_250x150_2022.png" group-title="TR | (VIP) B**N SPORTS ",Tr: BEIN Sports 4 FHD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/447244.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: BEIN Sports 5 HD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/beIN_SPORTS5_250x150.png" group-title="TR | (VIP) B**N SPORTS ",Tr: BEIN Sports 5 HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/447247.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: BEIN Sports 5 FHD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/beIN_SPORTS5_250x150.png" group-title="TR | (VIP) B**N SPORTS ",Tr: BEIN Sports 5 FHD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/447246.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: BEIN Sports MAX 1 FHD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w3_Sport_Max1_250x150_2022.png" group-title="TR | (VIP) B**N SPORTS ",Tr: BEIN Sports MAX 1 FHD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/447248.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: BEIN Sports MAX 2 FHD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w3_Sport_Max2_250x150_2022.png" group-title="TR | (VIP) B**N SPORTS ",Tr: BEIN Sports MAX 2 FHD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/447249.ts
+#EXTINF:-1 tvg-id="beINSportsHaber.tr" tvg-name="Tr: B**n Sp*rts Haber HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/BEIN_SPORT_HABER_SD.png" group-title="TR | B**N SPORTS",Tr: B**n Sp*rts Haber HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/17725.ts
+#EXTINF:-1 tvg-id="Beinsports.tr" tvg-name="Tr: B**n Sp*rts 1 SD (tr Ozel)" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png" group-title="TR | B**N SPORTS",Tr: B**n Sp*rts 1 SD (tr Ozel)
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/110939.ts
+#EXTINF:-1 tvg-id="beINSports1Turkey.tr" tvg-name="Tr: B**n Sp*rts SD 1 (tr Ozel)" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png" group-title="TR | B**N SPORTS",Tr: B**n Sp*rts SD 1 (tr Ozel)
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/81176.ts
+#EXTINF:-1 tvg-id="beINSports1Turkey.tr" tvg-name="Tr: B**n Sp*rts HD 1 (tr Ozel)" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png" group-title="TR | B**N SPORTS",Tr: B**n Sp*rts HD 1 (tr Ozel)
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/81177.ts
+#EXTINF:-1 tvg-id="beINSports1Turkey.tr" tvg-name="Tr: B**n Sp*rts HD 1" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png" group-title="TR | B**N SPORTS",Tr: B**n Sp*rts HD 1
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/11814.ts
+#EXTINF:-1 tvg-id="beINSports1Turkey.tr" tvg-name="Tr: B**n Sp*rts 1 FHD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png" group-title="TR | B**N SPORTS",Tr: B**n Sp*rts 1 FHD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/123965.ts
+#EXTINF:-1 tvg-id="beINSports1Turkey.tr" tvg-name="Tr: B**n Sp*rts 1 FHD (cihaz)" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png" group-title="TR | B**N SPORTS",Tr: B**n Sp*rts 1 FHD (cihaz)
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/33273.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: B**n Sports SD 1 (vip)" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png" group-title="TR | B**N SPORTS",Tr: B**n Sports SD 1 (vip)
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/263734.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: B**n Sports HD 1 (vip)" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png" group-title="TR | B**N SPORTS",Tr: B**n Sports HD 1 (vip)
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/263735.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: B**n Sports FHD 1 (vip)" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png" group-title="TR | B**N SPORTS",Tr: B**n Sports FHD 1 (vip)
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/263736.ts
+#EXTINF:-1 tvg-id="beINSports1Turkey.tr" tvg-name="Tr: B**n Sp*rts FHD 1 (h265)" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png" group-title="TR | B**N SPORTS",Tr: B**n Sp*rts FHD 1 (h265)
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/39705.ts
+#EXTINF:-1 tvg-id="beINSports2Turkey.tr" tvg-name="Tr: B**n Sp*rts HD 2" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/bein_sports_2_2.png" group-title="TR | B**N SPORTS",Tr: B**n Sp*rts HD 2
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/5913.ts
+#EXTINF:-1 tvg-id="beINSports2Turkey.tr" tvg-name="Tr: B**n Sp*rts 2 FHD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/bein_sports_2_2.png" group-title="TR | B**N SPORTS",Tr: B**n Sp*rts 2 FHD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/11815.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: B**n Sp*rts 2 FHD (feed)" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/bein_sports_2_2.png" group-title="TR | B**N SPORTS",Tr: B**n Sp*rts 2 FHD (feed)
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/297024.ts
+#EXTINF:-1 tvg-id="beINSports3Turkey.tr" tvg-name="Tr: B**n Sp*rts HD 3" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/bein_sports_3_2.png" group-title="TR | B**N SPORTS",Tr: B**n Sp*rts HD 3
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/5914.ts
+#EXTINF:-1 tvg-id="beINSports3Turkey.tr" tvg-name="Tr: B**n Sp*rts 3 FHD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/bein_sports_3_2.png" group-title="TR | B**N SPORTS",Tr: B**n Sp*rts 3 FHD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/11816.ts
+#EXTINF:-1 tvg-id="beINSports4Turkey.tr" tvg-name="Tr: B**n Sp*rts HD 4" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/bein_sports_4_2.png" group-title="TR | B**N SPORTS",Tr: B**n Sp*rts HD 4
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/5915.ts
+#EXTINF:-1 tvg-id="beINSports4Turkey.tr" tvg-name="Tr: B**n Sp*rts 4 FHD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/bein_sports_4_2.png" group-title="TR | B**N SPORTS",Tr: B**n Sp*rts 4 FHD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/11817.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: B**n Sp*rts HD 5" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/beIN_SPORTS5_250x150.png" group-title="TR | B**N SPORTS",Tr: B**n Sp*rts HD 5
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/283514.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: B**n Sp*rts FHD 5" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/beIN_SPORTS5_250x150.png" group-title="TR | B**N SPORTS",Tr: B**n Sp*rts FHD 5
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/233374.ts
+#EXTINF:-1 tvg-id="beINSportsMax1Turkey.tr" tvg-name="Tr: B**n Sp*rts MAX 1 FHD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/bein_sports_max_1_2.png" group-title="TR | B**N SPORTS",Tr: B**n Sp*rts MAX 1 FHD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/5916.ts
+#EXTINF:-1 tvg-id="beINSportsMax2Turkey.tr" tvg-name="Tr: B**n Sp*rts MAX 2 FHD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/bein_sports_max_2_2.png" group-title="TR | B**N SPORTS",Tr: B**n Sp*rts MAX 2 FHD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/5917.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: B**n Connect HD 1 (mac Zamani)" tvg-logo="https://i.hizliresim.com/74e2zmn.png" group-title="TR | B**N SPORTS",Tr: B**n Connect HD 1 (mac Zamani)
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/110619.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: B**n Connect HD 2 (mac Zamani)" tvg-logo="https://i.hizliresim.com/ac1j3fw.png" group-title="TR | B**N SPORTS",Tr: B**n Connect HD 2 (mac Zamani)
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/129167.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: B**n Connect HD 3 (mac Zamani)" tvg-logo="https://i.hizliresim.com/71in4qh.png" group-title="TR | B**N SPORTS",Tr: B**n Connect HD 3 (mac Zamani)
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/129168.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: B**n Connect HD 4 (mac Zamani)" tvg-logo="https://i.hizliresim.com/a7uekah.png" group-title="TR | B**N SPORTS",Tr: B**n Connect HD 4 (mac Zamani)
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/129169.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: B**n Connect HD 5 (mac Zamani)" tvg-logo="https://i.hizliresim.com/81z0oar.png" group-title="TR | B**N SPORTS",Tr: B**n Connect HD 5 (mac Zamani)
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/129170.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: B**n Connect HD 6 (mac Zamani)" tvg-logo="https://i.hizliresim.com/iql37fe.png" group-title="TR | B**N SPORTS",Tr: B**n Connect HD 6 (mac Zamani)
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/129171.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: B**n Connect HD 7 (mac Zamani)" tvg-logo="https://i.hizliresim.com/hlozixx.png" group-title="TR | B**N SPORTS",Tr: B**n Connect HD 7 (mac Zamani)
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/283153.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: B**n Connect HD 8 (mac Zamani)" tvg-logo="https://i.hizliresim.com/pylte1r.png" group-title="TR | B**N SPORTS",Tr: B**n Connect HD 8 (mac Zamani)
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/283154.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: B**n Connect HD 9 (mac Zamani)" tvg-logo="https://i.hizliresim.com/n93mc7e.png" group-title="TR | B**N SPORTS",Tr: B**n Connect HD 9 (mac Zamani)
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/283155.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: Trendyol Süper LIG TV HD (mac Ozetleri)" tvg-logo="https://i.ibb.co/c20vSSW/Trendyol-S-per-Lig-Haftan-n-zetleri.png" group-title="TR | B**N SPORTS",Tr: Trendyol Süper LIG TV HD (mac Ozetleri)
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/304764.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: Trendyol 1. LIG TV HD (mac Ozetleri)" tvg-logo="https://i.ibb.co/6nfQCY3/Trendyol-1-Lig-Haftan-n-zetleri.png" group-title="TR | B**N SPORTS",Tr: Trendyol 1. LIG TV HD (mac Ozetleri)
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/304765.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: Premier LIG TV HD (mac Ozetleri)" tvg-logo="https://i.ibb.co/qJCcQMx/Premier-Lig-Haftan-n-zetleri.png" group-title="TR | B**N SPORTS",Tr: Premier LIG TV HD (mac Ozetleri)
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/304788.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: Bundesliga TV HD (mac Ozetleri)" tvg-logo="https://i.ibb.co/GHp5Mcf/Bundesliga-Haftan-n-zetleri.png" group-title="TR | B**N SPORTS",Tr: Bundesliga TV HD (mac Ozetleri)
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/304786.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: Bundesliga 2.lig TV HD (mac Ozetleri)" tvg-logo="https://i.ibb.co/z6kH6v2/Bundesliga-2-Lig-Haftan-n-zetleri.png" group-title="TR | B**N SPORTS",Tr: Bundesliga 2.lig TV HD (mac Ozetleri)
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/304787.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: Fransa Ligue1 TV HD (mac Ozetleri)" tvg-logo="https://i.ibb.co/8jpVYxw/Fransa-Ligue1-Haftan-n-zetleri.png" group-title="TR | B**N SPORTS",Tr: Fransa Ligue1 TV HD (mac Ozetleri)
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/304789.ts
+#EXTINF:-1 tvg-id="SporSmart.tr" tvg-name="Tr: SPOR Smart HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/spor-smart-tr.png" group-title="TR | D-Smart Spor / Fil Spor",Tr: SPOR Smart HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/113531.ts
+#EXTINF:-1 tvg-id="SporSmart.tr" tvg-name="Tr: SPOR Smart FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/spor-smart-tr.png" group-title="TR | D-Smart Spor / Fil Spor",Tr: SPOR Smart FHD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/13074.ts
+#EXTINF:-1 tvg-id="SporSmart2.tr" tvg-name="Tr: SPOR Smart 2 HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/spor-smart-2-tr.png" group-title="TR | D-Smart Spor / Fil Spor",Tr: SPOR Smart 2 HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/103045.ts
+#EXTINF:-1 tvg-id="SporSmart2.tr" tvg-name="Tr: SPOR Smart 2 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/spor-smart-2-tr.png" group-title="TR | D-Smart Spor / Fil Spor",Tr: SPOR Smart 2 FHD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/120884.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: FIL SPOR 1 HD" tvg-logo="https://i.imgur.com/CtimaY5.png" group-title="TR | D-Smart Spor / Fil Spor",Tr: FIL SPOR 1 HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/282768.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: FIL SPOR 2 HD" tvg-logo="https://i.imgur.com/dtCNGVj.png" group-title="TR | D-Smart Spor / Fil Spor",Tr: FIL SPOR 2 HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/282769.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: FIL SPOR 3 HD" tvg-logo="https://i.imgur.com/vfZTkRq.png" group-title="TR | D-Smart Spor / Fil Spor",Tr: FIL SPOR 3 HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/282770.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: FIL SPOR 4 HD" tvg-logo="https://i.imgur.com/To51ltd.png" group-title="TR | D-Smart Spor / Fil Spor",Tr: FIL SPOR 4 HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/282771.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: FIL SPOR 5 HD" tvg-logo="https://i.imgur.com/JofV1Jm.png" group-title="TR | D-Smart Spor / Fil Spor",Tr: FIL SPOR 5 HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/282772.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: FIL SPOR 6 HD" tvg-logo="https://i.imgur.com/3EtQLJt.png" group-title="TR | D-Smart Spor / Fil Spor",Tr: FIL SPOR 6 HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/282773.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: FIL SPOR 7 HD" tvg-logo="https://i.imgur.com/3x5kWuF.png" group-title="TR | D-Smart Spor / Fil Spor",Tr: FIL SPOR 7 HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/283706.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: Tabii TV HD" tvg-logo="https://i.ibb.co/35KrVqx/tabiitv.png" group-title="TR | Tabii Spor",Tr: Tabii TV HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/494426.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: Tabii TV FHD" tvg-logo="https://i.ibb.co/35KrVqx/tabiitv.png" group-title="TR | Tabii Spor",Tr: Tabii TV FHD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/494429.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: Tabii SPOR HD" tvg-logo="https://i.ibb.co/Mk2NNqn/TABII-SPOR.png" group-title="TR | Tabii Spor",Tr: Tabii SPOR HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/303794.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: Tabii SPOR FHD" tvg-logo="https://i.ibb.co/Mk2NNqn/TABII-SPOR.png" group-title="TR | Tabii Spor",Tr: Tabii SPOR FHD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/303795.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: Tabii SPOR 1 HD" tvg-logo="https://i.ibb.co/crcpWyJ/TABII-SPOR-1.png" group-title="TR | Tabii Spor",Tr: Tabii SPOR 1 HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/297926.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: Tabii SPOR 1 FHD" tvg-logo="https://i.ibb.co/crcpWyJ/TABII-SPOR-1.png" group-title="TR | Tabii Spor",Tr: Tabii SPOR 1 FHD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/297927.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: Tabii SPOR 2 HD" tvg-logo="https://i.ibb.co/pJGqvwB/TABII-SPOR-2.png" group-title="TR | Tabii Spor",Tr: Tabii SPOR 2 HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/297928.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: Tabii SPOR 2 FHD" tvg-logo="https://i.ibb.co/pJGqvwB/TABII-SPOR-2.png" group-title="TR | Tabii Spor",Tr: Tabii SPOR 2 FHD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/297929.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: Tabii SPOR 3 HD" tvg-logo="https://i.ibb.co/QCw2YBy/TABII-SPOR-3.png" group-title="TR | Tabii Spor",Tr: Tabii SPOR 3 HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/297930.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: Tabii SPOR 3 FHD" tvg-logo="https://i.ibb.co/QCw2YBy/TABII-SPOR-3.png" group-title="TR | Tabii Spor",Tr: Tabii SPOR 3 FHD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/297931.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: Tabii SPOR 4 HD" tvg-logo="https://i.ibb.co/qnVm4Gr/TABII-SPOR-4.png" group-title="TR | Tabii Spor",Tr: Tabii SPOR 4 HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/297932.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: Tabii SPOR 4 FHD" tvg-logo="https://i.ibb.co/qnVm4Gr/TABII-SPOR-4.png" group-title="TR | Tabii Spor",Tr: Tabii SPOR 4 FHD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/297933.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: Tabii SPOR 5 HD" tvg-logo="https://i.ibb.co/Zx7VF8K/TABII-SPOR-5.png" group-title="TR | Tabii Spor",Tr: Tabii SPOR 5 HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/297934.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: Tabii SPOR 5 FHD" tvg-logo="https://i.ibb.co/Zx7VF8K/TABII-SPOR-5.png" group-title="TR | Tabii Spor",Tr: Tabii SPOR 5 FHD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/297935.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: Tabii SPOR 6 HD" tvg-logo="https://i.ibb.co/PmW94ny/TABII-SPOR-6.png" group-title="TR | Tabii Spor",Tr: Tabii SPOR 6 HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/297936.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: Tabii SPOR 6 FHD" tvg-logo="https://i.ibb.co/PmW94ny/TABII-SPOR-6.png" group-title="TR | Tabii Spor",Tr: Tabii SPOR 6 FHD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/297937.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: Tabii SPOR 7 HD" tvg-logo="" group-title="TR | Tabii Spor",Tr: Tabii SPOR 7 HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/517040.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: Tabii SPOR 7 FHD" tvg-logo="" group-title="TR | Tabii Spor",Tr: Tabii SPOR 7 FHD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/517043.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: Exxen VIP Sports 1 SD (mac Zamani)" tvg-logo="https://i.hizliresim.com/aaja19b.png" group-title="TR | Exxen Spor",Tr: Exxen VIP Sports 1 SD (mac Zamani)
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/170971.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: Exxen VIP Sports 1 HD (mac Zamani)" tvg-logo="https://i.hizliresim.com/aaja19b.png" group-title="TR | Exxen Spor",Tr: Exxen VIP Sports 1 HD (mac Zamani)
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/170972.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: Exxen VIP Sports 1 FHD (mac Zamani)" tvg-logo="https://i.hizliresim.com/aaja19b.png" group-title="TR | Exxen Spor",Tr: Exxen VIP Sports 1 FHD (mac Zamani)
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/181162.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: Exxen VIP Sports 1 UHD (mac Zamani)" tvg-logo="https://i.hizliresim.com/aaja19b.png" group-title="TR | Exxen Spor",Tr: Exxen VIP Sports 1 UHD (mac Zamani)
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/275780.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: Exxen VIP Sports 2 HD (mac Zamani)" tvg-logo="https://i.hizliresim.com/9ae40ud.png" group-title="TR | Exxen Spor",Tr: Exxen VIP Sports 2 HD (mac Zamani)
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/177650.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: Exxen VIP Sports 3 HD (mac Zamani)" tvg-logo="https://i.hizliresim.com/4erc921.png" group-title="TR | Exxen Spor",Tr: Exxen VIP Sports 3 HD (mac Zamani)
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/177651.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: Exxen VIP Sports 4 HD (mac Zamani)" tvg-logo="https://i.hizliresim.com/hbk854a.png" group-title="TR | Exxen Spor",Tr: Exxen VIP Sports 4 HD (mac Zamani)
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/180872.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: Exxen VIP Sports 5 HD (mac Zamani)" tvg-logo="https://i.hizliresim.com/48n6d2e.png" group-title="TR | Exxen Spor",Tr: Exxen VIP Sports 5 HD (mac Zamani)
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/180873.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: Exxen VIP Sports 6 HD (mac Zamani)" tvg-logo="https://i.hizliresim.com/3phv4z3.png" group-title="TR | Exxen Spor",Tr: Exxen VIP Sports 6 HD (mac Zamani)
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/180874.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: Exxen VIP Sports 7 HD (mac Zamani)" tvg-logo="https://i.hizliresim.com/2oty24b.png" group-title="TR | Exxen Spor",Tr: Exxen VIP Sports 7 HD (mac Zamani)
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/180883.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: Exxen VIP Sports 8 HD (mac Zamani)" tvg-logo="https://i.hizliresim.com/phtd7uo.png" group-title="TR | Exxen Spor",Tr: Exxen VIP Sports 8 HD (mac Zamani)
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/180884.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: Tivibu SPOR HD" tvg-logo="https://i.imgur.com/wqgHS4w.png" group-title="TR | Tivibu Spor",Tr: Tivibu SPOR HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/3237.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: Tivibu SPOR FHD" tvg-logo="https://i.imgur.com/wqgHS4w.png" group-title="TR | Tivibu Spor",Tr: Tivibu SPOR FHD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/225605.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: Tivibu SPOR 1 HD" tvg-logo="https://i.imgur.com/z1bHou9.png" group-title="TR | Tivibu Spor",Tr: Tivibu SPOR 1 HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/40653.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: Tivibu SPOR 1 FHD" tvg-logo="https://i.imgur.com/z1bHou9.png" group-title="TR | Tivibu Spor",Tr: Tivibu SPOR 1 FHD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/225607.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: Tivibu SPOR 2 HD" tvg-logo="https://i.imgur.com/FXHFhNr.png" group-title="TR | Tivibu Spor",Tr: Tivibu SPOR 2 HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/3239.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: Tivibu SPOR 2 FHD" tvg-logo="https://i.imgur.com/FXHFhNr.png" group-title="TR | Tivibu Spor",Tr: Tivibu SPOR 2 FHD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/245940.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: Tivibu SPOR 3 HD" tvg-logo="https://i.imgur.com/pzlTGRi.png" group-title="TR | Tivibu Spor",Tr: Tivibu SPOR 3 HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/123572.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: Tivibu SPOR 3 FHD" tvg-logo="https://i.imgur.com/pzlTGRi.png" group-title="TR | Tivibu Spor",Tr: Tivibu SPOR 3 FHD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/245941.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: Tivibu SPOR 4 HD" tvg-logo="https://i.imgur.com/1F73ZeD.png" group-title="TR | Tivibu Spor",Tr: Tivibu SPOR 4 HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/219260.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: Tivibu SPOR 4 FHD" tvg-logo="https://i.imgur.com/1F73ZeD.png" group-title="TR | Tivibu Spor",Tr: Tivibu SPOR 4 FHD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/245942.ts
+#EXTINF:-1 tvg-id="" tvg-name="----- (tr) Dsmart Kanallar----- HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/TURKIYE_LOGO_SD.png" group-title="TR | SINEMA DSMART",----- (tr) Dsmart Kanallar----- HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/101132.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: DS Sinema TV HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/sinema_tv.png" group-title="TR | SINEMA DSMART",Tr: DS Sinema TV HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/138844.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: DS Sinema TV 2 HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/sinema_tv_2.png" group-title="TR | SINEMA DSMART",Tr: DS Sinema TV 2 HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/138845.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: DIZI Smart MAX HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/dizismart_max.png" group-title="TR | SINEMA DSMART",Tr: DIZI Smart MAX HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/140568.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: DS Sinema TV Aksiyon 2 HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/07/sinema_aksiyon2.png" group-title="TR | SINEMA DSMART",Tr: DS Sinema TV Aksiyon 2 HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/138849.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: DS Sinema TV 1001 HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/sinema_1001.png" group-title="TR | SINEMA DSMART",Tr: DS Sinema TV 1001 HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/138852.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: DS Sinema TV 1002 HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/07/sinema_1002.png" group-title="TR | SINEMA DSMART",Tr: DS Sinema TV 1002 HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/138853.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: DS Sinema TV AILE HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/07/sinema_aile.png" group-title="TR | SINEMA DSMART",Tr: DS Sinema TV AILE HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/138846.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: DS Sinema TV AILE 2 HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/07/sinema_aile2.png" group-title="TR | SINEMA DSMART",Tr: DS Sinema TV AILE 2 HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/138847.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: DS Sinema TV Aksiyon HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/07/sinema_aksiyon.png" group-title="TR | SINEMA DSMART",Tr: DS Sinema TV Aksiyon HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/138848.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: Movie Smart TURK HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/05/moviesmartturk.png" group-title="TR | SINEMA DSMART",Tr: Movie Smart TURK HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/17832.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: Movie Smart Classic HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/05/moviesmartclassic.png" group-title="TR | SINEMA DSMART",Tr: Movie Smart Classic HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/19698.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: DS Sinema TV Komedi HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-komedi-tr.png" group-title="TR | SINEMA DSMART",Tr: DS Sinema TV Komedi HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/138850.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: DS Sinema TV Komedi 2 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-komedi-2-tr.png" group-title="TR | SINEMA DSMART",Tr: DS Sinema TV Komedi 2 HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/138851.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: DIZI Smart Premium HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/dizismart_premium.png" group-title="TR | SINEMA DSMART",Tr: DIZI Smart Premium HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/17833.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: Filmscreen HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/filmbox_hd_picon.png" group-title="TR | SINEMA DSMART",Tr: Filmscreen HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/21455.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: FX HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/fx.png" group-title="TR | SINEMA DSMART",Tr: FX HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/160718.ts
+#EXTINF:-1 tvg-id="" tvg-name="----- (tr) Tivibu Kanallar----- HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/TURKIYE_LOGO_SD.png" group-title="TR | SINEMA TIVIBU",----- (tr) Tivibu Kanallar----- HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/101133.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: Sinema TV HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/sinema_tv.png" group-title="TR | SINEMA TIVIBU",Tr: Sinema TV HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/109034.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: Sinema AILE HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/07/sinema_aile.png" group-title="TR | SINEMA TIVIBU",Tr: Sinema AILE HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/90542.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: Sinema TV 2 HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/sinema_tv_2.png" group-title="TR | SINEMA TIVIBU",Tr: Sinema TV 2 HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/121520.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: Sinema 1001 HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/sinema_1001.png" group-title="TR | SINEMA TIVIBU",Tr: Sinema 1001 HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/109036.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: Sinema 1002 HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/07/sinema_1002.png" group-title="TR | SINEMA TIVIBU",Tr: Sinema 1002 HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/121524.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: Sinema AILE 2 HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/07/sinema_aile2.png" group-title="TR | SINEMA TIVIBU",Tr: Sinema AILE 2 HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/169395.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: Sinema Yerli HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-yerli-tr.png" group-title="TR | SINEMA TIVIBU",Tr: Sinema Yerli HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/109037.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: Sinema Yerli 2 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-yerli-2-tr.png" group-title="TR | SINEMA TIVIBU",Tr: Sinema Yerli 2 HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/218893.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: Sinema Aksiyon HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/07/sinema_aksiyon.png" group-title="TR | SINEMA TIVIBU",Tr: Sinema Aksiyon HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/109039.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: Sinema Komedi HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-komedi-tr.png" group-title="TR | SINEMA TIVIBU",Tr: Sinema Komedi HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/109038.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: Sinema Komedi 2 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-komedi-2-tr.png" group-title="TR | SINEMA TIVIBU",Tr: Sinema Komedi 2 HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/169396.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: Sinema Aksiyon 2 HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/07/sinema_aksiyon2.png" group-title="TR | SINEMA TIVIBU",Tr: Sinema Aksiyon 2 HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/121526.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: EPIC Drama HD" tvg-logo="https://www.lyngsat.com/logo/tv/ee/epic-drama-se.png" group-title="TR | SINEMA TIVIBU",Tr: EPIC Drama HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/219258.ts
+#EXTINF:-1 tvg-id="" tvg-name="----- (tr) FILM 7/24 ----- HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/TURKIYE_LOGO_SD.png" group-title="TR | Film 7/24",----- (tr) FILM 7/24 ----- HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/140972.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: 7/24 007 James BOND HD" tvg-logo="https://i.imgur.com/MrcKaQF.png" group-title="TR | Film 7/24",Tr: 7/24 007 James BOND HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/318080.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: 7/24 Matrix HD" tvg-logo="https://i.imgur.com/MrcKaQF.png" group-title="TR | Film 7/24",Tr: 7/24 Matrix HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/318101.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: 7/24 Mumya HD" tvg-logo="https://i.imgur.com/MrcKaQF.png" group-title="TR | Film 7/24",Tr: 7/24 Mumya HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/318099.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: 7/24 X-men HD" tvg-logo="https://i.imgur.com/MrcKaQF.png" group-title="TR | Film 7/24",Tr: 7/24 X-men HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/318096.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: 7/24 Testere SAW HD" tvg-logo="https://i.imgur.com/MrcKaQF.png" group-title="TR | Film 7/24",Tr: 7/24 Testere SAW HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/318094.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: 7/24 Polis Akedemisi HD" tvg-logo="https://i.imgur.com/MrcKaQF.png" group-title="TR | Film 7/24",Tr: 7/24 Polis Akedemisi HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/318093.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: 7/24 SON Durak HD" tvg-logo="https://i.imgur.com/MrcKaQF.png" group-title="TR | Film 7/24",Tr: 7/24 SON Durak HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/318092.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: 7/24 Superman HD" tvg-logo="https://i.imgur.com/MrcKaQF.png" group-title="TR | Film 7/24",Tr: 7/24 Superman HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/318087.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: 7/24 VAN Damme HD" tvg-logo="https://i.imgur.com/MrcKaQF.png" group-title="TR | Film 7/24",Tr: 7/24 VAN Damme HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/318073.ts
+#EXTINF:-1 tvg-id="" tvg-name="----- (tr) Belgesel Kanallari----- HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/TURKIYE_LOGO_SD.png" group-title="TR | BELGESEL",----- (tr) Belgesel Kanallari----- HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/1421.ts
+#EXTINF:-1 tvg-id="TRT.Belgesel.tr" tvg-name="Tr: TRT Belgesel HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/TRT_BELGESEL_SD.png" group-title="TR | BELGESEL",Tr: TRT Belgesel HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/48.ts
+#EXTINF:-1 tvg-id="TRT.Belgesel.tr" tvg-name="Tr: TRT Belgesel FHD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/trt_belgesel_2.png" group-title="TR | BELGESEL",Tr: TRT Belgesel FHD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/74024.ts
+#EXTINF:-1 tvg-id="beINIZ.tr" tvg-name="Tr: B**n IZ HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/BEIN_IZ.png" group-title="TR | BELGESEL",Tr: B**n IZ HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/5945.ts
+#EXTINF:-1 tvg-id="DMAX.tr" tvg-name="Tr: DMAX HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/dmax.png" group-title="TR | BELGESEL",Tr: DMAX HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/8902.ts
+#EXTINF:-1 tvg-id="TLC.tr" tvg-name="Tr: TLC HD" tvg-logo="http://contentlibrary.digiturk.com.tr/Channel/23/Image/50x50_tlc.png" group-title="TR | BELGESEL",Tr: TLC HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/5967.ts
+#EXTINF:-1 tvg-id="360.tr" tvg-name="Tr: Animal Planet HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/ANIMAL_PLANET_HD.png" group-title="TR | BELGESEL",Tr: Animal Planet HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/8324.ts
+#EXTINF:-1 tvg-id="ANIMAUX-0xa" tvg-name="Tr: Animaux HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/07/Animaux-logo.png" group-title="TR | BELGESEL",Tr: Animaux HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/90580.ts
+#EXTINF:-1 tvg-id="BBCEarthTurkey.tr" tvg-name="Tr: BBC Earth HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/07/BBC_EART_HD.png" group-title="TR | BELGESEL",Tr: BBC Earth HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/1835.ts
+#EXTINF:-1 tvg-id="CHASSEPECHE-0xa" tvg-name="Tr: Chasse Peche HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/chasse_peche.png" group-title="TR | BELGESEL",Tr: Chasse Peche HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/90582.ts
+#EXTINF:-1 tvg-id="DiscoveryChannelTurkey.tr" tvg-name="Tr: Discovery Channel HD" tvg-logo="https://imagizer.imageshack.com/img922/1007/1dG1TF.png" group-title="TR | BELGESEL",Tr: Discovery Channel HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/5944.ts
+#EXTINF:-1 tvg-id="360.tr" tvg-name="Tr: Discovery ID HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/07/IDX_DISCOVERY_SD.png" group-title="TR | BELGESEL",Tr: Discovery ID HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/122263.ts
+#EXTINF:-1 tvg-id="DocuBox.nl" tvg-name="Tr: Docubox HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/05/docubox.png" group-title="TR | BELGESEL",Tr: Docubox HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/90584.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: Fishing AND Hunting HD" tvg-logo="http://sltv-logo.cms-s.com/logo/HUNGARIAN/macar2021/fh.png" group-title="TR | BELGESEL",Tr: Fishing AND Hunting HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/217428.ts
+#EXTINF:-1 tvg-id="HABITAT-0xa" tvg-name="Tr: Habitat TV HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/habitat-tr.png" group-title="TR | BELGESEL",Tr: Habitat TV HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/149757.ts
+#EXTINF:-1 tvg-id="360.tr" tvg-name="Tr: History HD" tvg-logo="https://imagizer.imageshack.com/img924/5439/XXQmby.png" group-title="TR | BELGESEL",Tr: History HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/5943.ts
+#EXTINF:-1 tvg-id="LoveNature.ca" tvg-name="Tr: LOVE Nature HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/love_nature.png" group-title="TR | BELGESEL",Tr: LOVE Nature HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/92969.ts
+#EXTINF:-1 tvg-id="NationalGeographicWildTurkey.tr" tvg-name="Tr: NAT GEO WILD HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/national_geo.png" group-title="TR | BELGESEL",Tr: NAT GEO WILD HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/5942.ts
+#EXTINF:-1 tvg-id="National.Geographic.tr" tvg-name="Tr: National Geographic HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/NATION_GEOGRAPHIC_SD.png" group-title="TR | BELGESEL",Tr: National Geographic HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/5941.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: Outdoor HD" tvg-logo="https://www.lyngsat.com/logo/tv/oo/outdoor-channel-us.png" group-title="TR | BELGESEL",Tr: Outdoor HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/282524.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: Tarih TV HD" tvg-logo="https://itv224218.tmp.tivibu.com.tr:6430/images/poster//20220830748551.png" group-title="TR | BELGESEL",Tr: Tarih TV HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/237627.ts
+#EXTINF:-1 tvg-id="TGRTBELGESEL-0xa" tvg-name="Tr: TGRT Belgesel HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/TGRT_BELGESEL_SD.png" group-title="TR | BELGESEL",Tr: TGRT Belgesel HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/59191.ts
+#EXTINF:-1 tvg-id="VIASATEXPLORE-0xa" tvg-name="Tr: Viasat Explore HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/viasat_exploar_picon.jpg" group-title="TR | BELGESEL",Tr: Viasat Explore HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/90545.ts
+#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-name="Tr: Viasat History HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/viasat_history.png" group-title="TR | BELGESEL",Tr: Viasat History HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/59127.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: Viasat Nature/history HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/viasat_nature.png" group-title="TR | BELGESEL",Tr: Viasat Nature/history HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/205928.ts
+#EXTINF:-1 tvg-id="Yaban.tr" tvg-name="Tr: Yaban TV HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/yaban_tv.png" group-title="TR | BELGESEL",Tr: Yaban TV HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/1148.ts
+#EXTINF:-1 tvg-id="" tvg-name="----- (tr) Yasam Kanallari----- HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/TURKIYE_LOGO_SD.png" group-title="TR | YASAM",----- (tr) Yasam Kanallari----- HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/95187.ts
+#EXTINF:-1 tvg-id="beINGurme.tr" tvg-name="Tr: B**n Gurme HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/07/BEIN_GURME_HD.png" group-title="TR | YASAM",Tr: B**n Gurme HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/5940.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: B**n H&e HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/BEIN_H-E_HD.png" group-title="TR | YASAM",Tr: B**n H&e HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/267107.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: Mezzo LIVE HD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/250x150_mezzo.png" group-title="TR | YASAM",Tr: Mezzo LIVE HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/206646.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: WM TV Woman Kadin HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/TV_WOMAN_KADIN_SD.png" group-title="TR | YASAM",Tr: WM TV Woman Kadin HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/130344.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: Stingray Classica HD" tvg-logo="https://i.imgur.com/EM3FheD.png" group-title="TR | YASAM",Tr: Stingray Classica HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/168434.ts
+#EXTINF:-1 tvg-id="TV4.tr" tvg-name="Tr: Tv4 HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/TV4_HD.png" group-title="TR | YASAM",Tr: Tv4 HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/9390.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: English CLUB TV HD" tvg-logo="https://i.hizliresim.com/oxb2d98.png" group-title="TR | YASAM",Tr: English CLUB TV HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/283626.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: Akilli TV HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/AKILLI_TV_SD.png" group-title="TR | YASAM",Tr: Akilli TV HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/39136.ts
+#EXTINF:-1 tvg-id="360.tr" tvg-name="Tr: Fashion TV HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/fashion_tv.png" group-title="TR | YASAM",Tr: Fashion TV HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/95188.ts
+#EXTINF:-1 tvg-id="TRT2.tr" tvg-name="Tr: TRT 2 FHD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/TRT2_HD.png" group-title="TR | YASAM",Tr: TRT 2 FHD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/71964.ts
+#EXTINF:-1 tvg-id="TRT2.tr" tvg-name="Tr: TRT 2 HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/TRT2_HD.png" group-title="TR | YASAM",Tr: TRT 2 HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/54858.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: Cnbc-e HD" tvg-logo="https://s.cnbce.com/dist/images/logo.png" group-title="TR | YASAM",Tr: Cnbc-e HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/296567.ts
+#EXTINF:-1 tvg-id="" tvg-name="----- (tr) Cocuk Kanallari----- HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/TURKIYE_LOGO_SD.png" group-title="TR | COCUK",----- (tr) Cocuk Kanallari----- HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/5972.ts
+#EXTINF:-1 tvg-id="minikacocuk.tr" tvg-name="Tr: Minika Cocuk HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/MINIKA_COCUK_SD.png" group-title="TR | COCUK",Tr: Minika Cocuk HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/5952.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: Sirinler TV HD" tvg-logo="https://i1.imgiz.com/rshots/9036/sirinler-1-bolum-cizgi-film_9036596-5542_600x315.jpg" group-title="TR | COCUK",Tr: Sirinler TV HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/123328.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: Pijemaskeliler TV HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/07/pijemasks.jpg" group-title="TR | COCUK",Tr: Pijemaskeliler TV HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/86772.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: NICK JR HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/nickJr.png" group-title="TR | COCUK",Tr: NICK JR HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/5947.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: Cocuk Smart HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/COCUK_SMART_HD.png" group-title="TR | COCUK",Tr: Cocuk Smart HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/32374.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: Pepee TV HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/pepee_tv.png" group-title="TR | COCUK",Tr: Pepee TV HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/21520.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: PAW Patrol HD" tvg-logo="https://m.media-amazon.com/images/I/51n1AcMaRLL._AC_.jpg" group-title="TR | COCUK",Tr: PAW Patrol HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/240901.ts
+#EXTINF:-1 tvg-id="CartoonNetworkTurkey.tr" tvg-name="Tr: Cartoon Network HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/07/CARTON_NETWORK_DE.png" group-title="TR | COCUK",Tr: Cartoon Network HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/137.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: Limon ILE Zeytin HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/a6/LimonileZeytin.png" group-title="TR | COCUK",Tr: Limon ILE Zeytin HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/225675.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: TRT Diyanet Cocuk HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/TRT_Diyanet_%C3%87ocuk_logo.png" group-title="TR | COCUK",Tr: TRT Diyanet Cocuk HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/259171.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: DUCK TV HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/07/duck-tv-.jpg" group-title="TR | COCUK",Tr: DUCK TV HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/90544.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: Minika GO HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/MINIKA_GO_SD.png" group-title="TR | COCUK",Tr: Minika GO HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/5953.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: Sevimli Dostlar HD" tvg-logo="http://sltv-logo.cms-s.com/logo/turkeyT/sevimli_dostlar.png" group-title="TR | COCUK",Tr: Sevimli Dostlar HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/225670.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: Kukuli TV HD" tvg-logo="http://sltv-logo.cms-s.com/logo/turkeyT/kukuli.png" group-title="TR | COCUK",Tr: Kukuli TV HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/206002.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: MASA ILE KOCA AYI HD" tvg-logo="http://sltv-logo.cms-s.com/logo/turkeyT/masa_kocaayi.png" group-title="TR | COCUK",Tr: MASA ILE KOCA AYI HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/150254.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: Masal TV HD" tvg-logo="http://sltv-logo.cms-s.com/logo/turkeyT/masalTv.png" group-title="TR | COCUK",Tr: Masal TV HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/192186.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: TOM VE Jerry HD" tvg-logo="http://sltv-logo.cms-s.com/logo/turkeyT/tom-jerry.png" group-title="TR | COCUK",Tr: TOM VE Jerry HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/113110.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: Disney JR HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/disney_junior.png" group-title="TR | COCUK",Tr: Disney JR HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/5948.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: Cartoonito HD" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/75/70x70/64f57b42866ac307e484249e.png" group-title="TR | COCUK",Tr: Cartoonito HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/73474.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: Cbeebies TV HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/CBeebies.png" group-title="TR | COCUK",Tr: Cbeebies TV HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/33536.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: Niloya TV HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/niloya.png" group-title="TR | COCUK",Tr: Niloya TV HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/21521.ts
+#EXTINF:-1 tvg-id="360.tr" tvg-name="Tr: DA Vinci KIDS HD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/davinci_250x150.png" group-title="TR | COCUK",Tr: DA Vinci KIDS HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/7026.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: Nicktoons HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/nick_toons.png" group-title="TR | COCUK",Tr: Nicktoons HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/36960.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: Nickelodeon HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/NICKELODEON_HD.png" group-title="TR | COCUK",Tr: Nickelodeon HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/5946.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: TRT Cocuk HD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/TRT_cocuk_250x150.png" group-title="TR | COCUK",Tr: TRT Cocuk HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/5974.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: BABY TV HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/BabyTV.png" group-title="TR | COCUK",Tr: BABY TV HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/1870.ts
+#EXTINF:-1 tvg-id="TRTCOCUK-0xa" tvg-name="Tr: TRT Cocuk FHD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/TRT_cocuk_250x150.png" group-title="TR | COCUK",Tr: TRT Cocuk FHD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/74029.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: Caillou TV HD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rDm7q3rR2HDQGJg3JW0I9QJAoMK.jpg" group-title="TR | COCUK",Tr: Caillou TV HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/123329.ts
+#EXTINF:-1 tvg-id="360.tr" tvg-name="Tr: TRT EBA HD" tvg-logo="https://i.imgur.com/kIj2DMI.png" group-title="TR | COCUK",Tr: TRT EBA HD
+http://sunucu.info:8080//live/308ErncelK/YVqN2MVkVbPU/95355.ts
